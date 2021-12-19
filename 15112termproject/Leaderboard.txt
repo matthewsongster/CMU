@@ -1,0 +1,5 @@
+1. Score: 4341, John
+2. Score: 3841, James
+3. Score: 2323, Ezreal
+4. Score: 933, Zeus
+5. Score: 154, Bob
