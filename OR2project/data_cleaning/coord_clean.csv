@@ -1,0 +1,3145 @@
+"Recip_County","Recip_State","Lat","Long"
+"Autauga County","AL",32.532237,-86.64644
+"Baldwin County","AL",30.659218,-87.746067
+"Barbour County","AL",31.870253,-85.405104
+"Bibb County","AL",33.015893,-87.127148
+"Blount County","AL",33.977358,-86.56644
+"Bullock County","AL",32.101759,-85.717261
+"Butler County","AL",31.751667,-86.681969
+"Calhoun County","AL",33.770516,-85.827909
+"Chambers County","AL",32.915504,-85.394032
+"Cherokee County","AL",34.069515,-85.654242
+"Chilton County","AL",32.854051,-86.726607
+"Choctaw County","AL",31.990954,-88.248889
+"Clarke County","AL",31.685521,-87.818624
+"Clay County","AL",33.2704,-85.863525
+"Cleburne County","AL",33.671964,-85.516126
+"Coffee County","AL",31.402258,-85.989602
+"Colbert County","AL",34.703112,-87.801457
+"Conecuh County","AL",31.430926,-86.988722
+"Coosa County","AL",32.931445,-86.243482
+"Covington County","AL",31.243987,-86.448721
+"Crenshaw County","AL",31.730311,-86.320038
+"Cullman County","AL",34.131923,-86.869267
+"Dale County","AL",31.430654,-85.609476
+"Dallas County","AL",32.333526,-87.11436
+"DeKalb County","AL",34.460915,-85.804021
+"Elmore County","AL",32.597229,-86.142735
+"Escambia County","AL",31.122287,-87.16841
+"Etowah County","AL",34.047641,-86.034263
+"Fayette County","AL",33.716157,-87.764292
+"Franklin County","AL",34.441989,-87.842814
+"Geneva County","AL",31.092382,-85.821022
+"Greene County","AL",32.844497,-87.9642
+"Hale County","AL",32.752796,-87.623061
+"Henry County","AL",31.516978,-85.239971
+"Houston County","AL",31.158183,-85.296411
+"Jackson County","AL",34.764114,-85.980056
+"Jefferson County","AL",33.553444,-86.896536
+"Lamar County","AL",33.787085,-88.087431
+"Lauderdale County","AL",34.904168,-87.651108
+"Lawrence County","AL",34.529776,-87.321865
+"Lee County","AL",32.604064,-85.353048
+"Limestone County","AL",34.810239,-86.981399
+"Lowndes County","AL",32.147888,-86.650586
+"Macon County","AL",32.387027,-85.692887
+"Madison County","AL",34.764238,-86.55108
+"Marengo County","AL",32.247591,-87.791091
+"Marion County","AL",34.138219,-87.881551
+"Marshall County","AL",34.309564,-86.321668
+"Mobile County","AL",30.684572,-88.196568
+"Monroe County","AL",31.580332,-87.383266
+"Montgomery County","AL",32.202881,-86.204461
+"Morgan County","AL",34.454484,-86.846402
+"Perry County","AL",32.639005,-87.293827
+"Pickens County","AL",33.2968,-88.096864
+"Pike County","AL",31.798653,-85.941608
+"Randolph County","AL",33.296461,-85.464064
+"Russell County","AL",32.289811,-85.18698
+"St. Clair County","AL",33.719491,-86.311327
+"Shelby County","AL",33.266893,-86.661007
+"Sumter County","AL",32.597481,-88.200057
+"Talladega County","AL",33.369314,-86.17593
+"Tallapoosa County","AL",32.863308,-85.799618
+"Tuscaloosa County","AL",33.29022,-87.522783
+"Walker County","AL",33.791558,-87.301094
+"Washington County","AL",31.408503,-88.212404
+"Wilcox County","AL",31.990082,-87.304935
+"Winston County","AL",34.154566,-87.365346
+"Aleutians East Borough","AK",55.245044,-161.997477
+"Aleutians West Census Area","AK",51.948964,179.621188
+"Anchorage Municipality","AK",61.17425,-149.284329
+"Bethel Census Area","AK",60.929141,-160.152625
+"Bristol Bay Borough","AK",58.741661,-156.966805
+"Chugach Census Area","AK",60.488474,-146.203092
+"Copper River Census Area","AK",62.034479,-143.922167
+"Denali Borough","AK",63.682039,-150.027016
+"Dillingham Census Area","AK",59.543326,-158.267123
+"Fairbanks North Star Borough","AK",64.676044,-146.548159
+"Haines Borough","AK",59.098404,-135.575791
+"Hoonah-Angoon Census Area","AK",58.403336,-135.884909
+"Juneau City and Borough","AK",58.37291,-134.178445
+"Kenai Peninsula Borough","AK",60.360766,-152.05264
+"Ketchikan Gateway Borough","AK",55.449938,-131.106685
+"Kodiak Island Borough","AK",57.7044,-153.918372
+"Kusilvak Census Area","AK",62.283588,-163.190171
+"Lake and Peninsula Borough","AK",58.108507,-156.413413
+"Matanuska-Susitna Borough","AK",62.265626,-149.503993
+"Nome Census Area","AK",64.783686,-164.188912
+"North Slope Borough","AK",69.449343,-153.47283
+"Northwest Arctic Borough","AK",67.005066,-160.021086
+"Petersburg Borough","AK",57.112458,-133.008598
+"Prince of Wales-Hyder Census Area","AK",55.682773,-133.162389
+"Sitka City and Borough","AK",57.193204,-135.367396
+"Skagway Municipality","AK",59.560379,-135.338279
+"Southeast Fairbanks Census Area","AK",63.864997,-143.218628
+"Wrangell City and Borough","AK",56.180779,-132.026788
+"Yakutat City and Borough","AK",60.017453,-140.416942
+"Yukon-Koyukuk Census Area","AK",65.375727,-151.57785
+"Apache County","AZ",35.385084,-109.490172
+"Cochise County","AZ",31.840129,-109.775163
+"Coconino County","AZ",35.829692,-111.773728
+"Gila County","AZ",33.789618,-110.81187
+"Graham County","AZ",32.931828,-109.87831
+"Greenlee County","AZ",33.238872,-109.242323
+"La Paz County","AZ",33.72761,-114.038806
+"Maricopa County","AZ",33.345176,-112.49893
+"Mohave County","AZ",35.717705,-113.749689
+"Navajo County","AZ",35.390785,-110.321025
+"Pima County","AZ",32.128038,-111.783657
+"Pinal County","AZ",32.918521,-111.366339
+"Santa Cruz County","AZ",31.525733,-110.845228
+"Yavapai County","AZ",34.631071,-112.577225
+"Yuma County","AZ",32.773942,-113.910905
+"Arkansas County","AR",34.28957,-91.376547
+"Ashley County","AR",33.190835,-91.772267
+"Baxter County","AR",36.280268,-92.329949
+"Benton County","AR",36.337819,-94.256298
+"Boone County","AR",36.304299,-93.079236
+"Bradley County","AR",33.466549,-92.169156
+"Calhoun County","AR",33.56046,-92.513879
+"Carroll County","AR",36.33737,-93.540972
+"Chicot County","AR",33.267139,-91.297158
+"Clark County","AR",34.053316,-93.176208
+"Clay County","AR",36.367302,-90.418704
+"Cleburne County","AR",35.566315,-92.05995
+"Cleveland County","AR",33.893201,-92.188714
+"Columbia County","AR",33.223038,-93.232843
+"Conway County","AR",35.265702,-92.689248
+"Craighead County","AR",35.827729,-90.631421
+"Crawford County","AR",35.583011,-94.236219
+"Crittenden County","AR",35.197559,-90.30512
+"Cross County","AR",35.285692,-90.763984
+"Dallas County","AR",33.967823,-92.653999
+"Desha County","AR",33.828752,-91.244103
+"Drew County","AR",33.587242,-91.722778
+"Faulkner County","AR",35.146548,-92.336928
+"Franklin County","AR",35.508558,-93.887665
+"Fulton County","AR",36.381322,-91.819285
+"Garland County","AR",34.578852,-93.146932
+"Grant County","AR",34.285568,-92.422979
+"Greene County","AR",36.120607,-90.566346
+"Hempstead County","AR",33.735953,-93.664355
+"Hot Spring County","AR",34.315177,-92.944147
+"Howard County","AR",34.083064,-93.990931
+"Independence County","AR",35.737499,-91.559942
+"Izard County","AR",36.094879,-91.913625
+"Jackson County","AR",35.596467,-91.223205
+"Jefferson County","AR",34.277239,-91.929673
+"Johnson County","AR",35.573359,-93.466322
+"Lafayette County","AR",33.240629,-93.611514
+"Lawrence County","AR",36.041098,-91.101153
+"Lee County","AR",34.779505,-90.779717
+"Lincoln County","AR",33.956385,-91.742355
+"Little River County","AR",33.701941,-94.236287
+"Logan County","AR",35.218654,-93.72091
+"Lonoke County","AR",34.755114,-91.894132
+"Madison County","AR",36.012545,-93.724053
+"Marion County","AR",36.266664,-92.678577
+"Miller County","AR",33.305505,-93.901502
+"Mississippi County","AR",35.766944,-90.052207
+"Monroe County","AR",34.679512,-91.20331
+"Montgomery County","AR",34.545656,-93.664153
+"Nevada County","AR",33.666699,-93.305072
+"Newton County","AR",35.910742,-93.215898
+"Ouachita County","AR",33.591168,-92.878413
+"Perry County","AR",34.946363,-92.926877
+"Phillips County","AR",34.423687,-90.855593
+"Pike County","AR",34.158191,-93.658659
+"Poinsett County","AR",35.56887,-90.681104
+"Polk County","AR",34.490915,-94.230884
+"Pope County","AR",35.456557,-93.026818
+"Prairie County","AR",34.831116,-91.55362
+"Pulaski County","AR",34.770311,-92.312996
+"Randolph County","AR",36.341298,-91.028441
+"St. Francis County","AR",35.022838,-90.751506
+"Saline County","AR",34.648525,-92.674463
+"Scott County","AR",34.858869,-94.063641
+"Searcy County","AR",35.896387,-92.695888
+"Sebastian County","AR",35.196981,-94.274989
+"Sevier County","AR",33.994877,-94.243279
+"Sharp County","AR",36.173399,-91.471069
+"Stone County","AR",35.857001,-92.140482
+"Union County","AR",33.168219,-92.598145
+"Van Buren County","AR",35.582953,-92.515976
+"Washington County","AR",35.978001,-94.217269
+"White County","AR",35.255118,-91.753034
+"Woodruff County","AR",35.192777,-91.244535
+"Yell County","AR",34.997713,-93.408303
+"Alameda County","CA",37.647139,-121.912488
+"Alpine County","CA",38.621783,-119.798352
+"Amador County","CA",38.443549,-120.653858
+"Butte County","CA",39.665336,-121.603209
+"Calaveras County","CA",38.191068,-120.554107
+"Colusa County","CA",39.177739,-122.237563
+"Contra Costa County","CA",37.919479,-121.951543
+"Del Norte County","CA",41.749903,-123.980998
+"El Dorado County","CA",38.785612,-120.534225
+"Fresno County","CA",36.761006,-119.655019
+"Glenn County","CA",39.602546,-122.4017
+"Humboldt County","CA",40.706655,-123.926176
+"Imperial County","CA",33.040814,-115.3554
+"Inyo County","CA",36.56216,-117.404209
+"Kern County","CA",35.346629,-118.729506
+"Kings County","CA",36.072478,-119.81553
+"Lake County","CA",39.108009,-122.745217
+"Lassen County","CA",40.715287,-120.621223
+"Los Angeles County","CA",34.196398,-118.261862
+"Madera County","CA",37.209821,-119.749802
+"Marin County","CA",38.051367,-122.746396
+"Mariposa County","CA",37.574343,-119.911721
+"Mendocino County","CA",39.432388,-123.442881
+"Merced County","CA",37.194806,-120.722802
+"Modoc County","CA",41.592918,-120.71837
+"Mono County","CA",37.915836,-118.875167
+"Monterey County","CA",36.240104,-121.315578
+"Napa County","CA",38.5071,-122.325904
+"Nevada County","CA",39.297508,-120.771343
+"Orange County","CA",33.675687,-117.777207
+"Placer County","CA",39.062032,-120.722718
+"Plumas County","CA",39.992295,-120.824371
+"Riverside County","CA",33.729828,-116.002239
+"Sacramento County","CA",38.450136,-121.344329
+"San Benito County","CA",36.611651,-121.085811
+"San Bernardino County","CA",34.856661,-116.181571
+"San Diego County","CA",33.023604,-116.776117
+"San Francisco County","CA",37.727239,-123.032229
+"San Joaquin County","CA",37.934982,-121.272244
+"San Luis Obispo County","CA",35.388189,-120.448897
+"San Mateo County","CA",37.414672,-122.371546
+"Santa Barbara County","CA",34.536677,-120.038364
+"Santa Clara County","CA",37.221614,-121.68954
+"Santa Cruz County","CA",37.012347,-122.007789
+"Shasta County","CA",40.760514,-122.043556
+"Sierra County","CA",39.576925,-120.521993
+"Siskiyou County","CA",41.587986,-122.533287
+"Solano County","CA",38.267226,-121.939594
+"Sonoma County","CA",38.525182,-122.92611
+"Stanislaus County","CA",37.562316,-121.002831
+"Sutter County","CA",39.03619,-121.70394
+"Tehama County","CA",40.126157,-122.232274
+"Trinity County","CA",40.647858,-123.114666
+"Tulare County","CA",36.228834,-118.781055
+"Tuolumne County","CA",38.021434,-119.964733
+"Ventura County","CA",34.358748,-119.133145
+"Yolo County","CA",38.679609,-121.90275
+"Yuba County","CA",39.27013,-121.344259
+"Adams County","CO",39.874325,-104.331872
+"Alamosa County","CO",37.568442,-105.788041
+"Arapahoe County","CO",39.644554,-104.331706
+"Archuleta County","CO",37.202395,-107.050863
+"Baca County","CO",37.30978,-102.543741
+"Bent County","CO",37.931891,-103.077584
+"Boulder County","CO",40.094966,-105.397702
+"Broomfield County","CO",39.953593,-105.050787
+"Chaffee County","CO",38.734599,-106.300025
+"Cheyenne County","CO",38.835646,-102.601791
+"Clear Creek County","CO",39.689403,-105.670783
+"Conejos County","CO",37.213406,-106.176447
+"Costilla County","CO",37.277547,-105.42894
+"Crowley County","CO",38.30618,-103.772736
+"Custer County","CO",38.101996,-105.373512
+"Delta County","CO",38.861595,-107.864892
+"Denver County","CO",39.76185,-104.881105
+"Dolores County","CO",37.733823,-108.506219
+"Douglas County","CO",39.325414,-104.925987
+"Eagle County","CO",39.626992,-106.695169
+"Elbert County","CO",39.315157,-104.114076
+"El Paso County","CO",38.827383,-104.527472
+"Fremont County","CO",38.45517,-105.424958
+"Garfield County","CO",39.599352,-107.90978
+"Gilpin County","CO",39.861156,-105.528878
+"Grand County","CO",40.113065,-106.110837
+"Gunnison County","CO",38.670499,-107.05688
+"Hinsdale County","CO",37.811519,-107.383974
+"Huerfano County","CO",37.687815,-104.959928
+"Jackson County","CO",40.663432,-106.329248
+"Jefferson County","CO",39.579511,-105.245462
+"Kiowa County","CO",38.387663,-102.756849
+"Kit Carson County","CO",39.30534,-102.603023
+"Lake County","CO",39.205341,-106.350079
+"La Plata County","CO",37.287367,-107.839718
+"Larimer County","CO",40.658093,-105.486764
+"Las Animas County","CO",37.318831,-104.04411
+"Lincoln County","CO",38.99374,-103.507555
+"Logan County","CO",40.728091,-103.090464
+"Mesa County","CO",39.019524,-108.460571
+"Mineral County","CO",37.549067,-107.003236
+"Moffat County","CO",40.610864,-108.217154
+"Montezuma County","CO",37.338025,-108.595786
+"Montrose County","CO",38.407507,-108.266282
+"Morgan County","CO",40.263159,-103.81221
+"Otero County","CO",37.88417,-103.72126
+"Ouray County","CO",38.154731,-107.78848
+"Park County","CO",39.118914,-105.717648
+"Phillips County","CO",40.594712,-102.345105
+"Pitkin County","CO",39.217541,-106.916162
+"Prowers County","CO",37.958181,-102.392161
+"Pueblo County","CO",38.162765,-104.484668
+"Rio Blanco County","CO",39.972622,-108.200716
+"Rio Grande County","CO",37.485853,-106.453128
+"Routt County","CO",40.483664,-106.987702
+"Saguache County","CO",38.031651,-106.234666
+"San Juan County","CO",37.781049,-107.670257
+"San Miguel County","CO",38.009319,-108.427263
+"Sedgwick County","CO",40.871568,-102.355358
+"Summit County","CO",39.621023,-106.137555
+"Teller County","CO",38.869976,-105.187365
+"Washington County","CO",39.96579,-103.209744
+"Weld County","CO",40.555961,-104.383666
+"Yuma County","CO",40.00077,-102.421649
+"Capitol Planning Region","CT",41.81697,-72.575886
+"Greater Bridgeport Planning Region","CT",41.184558,-73.209401
+"Lower Connecticut River Valley Planning Region","CT",41.420307,-72.493525
+"Naugatuck Valley Planning Region","CT",41.518931,-73.087906
+"Northeastern Connecticut Planning Region","CT",41.842375,-71.972655
+"Northwest Hills Planning Region","CT",41.854809,-73.221494
+"South Central Connecticut Planning Region","CT",41.290167,-72.837024
+"Southeastern Connecticut Planning Region","CT",41.484769,-72.101666
+"Western Connecticut Planning Region","CT",41.279055,-73.44655
+"Kent County","DE",39.097088,-75.502982
+"New Castle County","DE",39.575915,-75.644132
+"Sussex County","DE",38.673227,-75.337024
+"District of Columbia","DC",38.904247,-77.016517
+"Alachua County","FL",29.67574,-82.357221
+"Baker County","FL",30.324442,-82.302284
+"Bay County","FL",30.15914,-85.534395
+"Bradford County","FL",29.952386,-82.166698
+"Brevard County","FL",28.298311,-80.700333
+"Broward County","FL",26.193535,-80.476683
+"Calhoun County","FL",30.388801,-85.197915
+"Charlotte County","FL",26.906396,-82.003657
+"Citrus County","FL",28.850292,-82.595552
+"Clay County","FL",29.986584,-81.865036
+"Collier County","FL",26.118786,-81.400955
+"Columbia County","FL",30.221651,-82.623371
+"DeSoto County","FL",27.190581,-81.806253
+"Dixie County","FL",29.552675,-83.236232
+"Duval County","FL",30.335245,-81.648113
+"Escambia County","FL",30.529998,-87.320322
+"Flagler County","FL",29.474891,-81.286253
+"Franklin County","FL",29.677794,-84.815213
+"Gadsden County","FL",30.578687,-84.612607
+"Gilchrist County","FL",29.723456,-82.795801
+"Glades County","FL",26.95481,-81.19082
+"Gulf County","FL",29.859238,-85.272013
+"Hamilton County","FL",30.498438,-82.951116
+"Hardee County","FL",27.492846,-81.82158
+"Hendry County","FL",26.539967,-81.152114
+"Hernando County","FL",28.555995,-82.525969
+"Highlands County","FL",27.34108,-81.342353
+"Hillsborough County","FL",27.893154,-82.379991
+"Holmes County","FL",30.862007,-85.815939
+"Indian River County","FL",27.700528,-80.574789
+"Jackson County","FL",30.789249,-85.208814
+"Jefferson County","FL",30.396898,-83.921761
+"Lafayette County","FL",29.990066,-83.17851
+"Lake County","FL",28.764113,-81.712282
+"Lee County","FL",26.563273,-81.984182
+"Leon County","FL",30.45931,-84.2778
+"Levy County","FL",29.271854,-82.831233
+"Liberty County","FL",30.259849,-84.86858
+"Madison County","FL",30.447233,-83.470416
+"Manatee County","FL",27.475556,-82.393144
+"Marion County","FL",29.202805,-82.0431
+"Martin County","FL",27.083604,-80.398201
+"Miami-Dade County","FL",25.616009,-80.50375
+"Monroe County","FL",25.58612,-81.022603
+"Nassau County","FL",30.605963,-81.765087
+"Okaloosa County","FL",30.614325,-86.59108
+"Okeechobee County","FL",27.385592,-80.887388
+"Orange County","FL",28.514391,-81.323284
+"Osceola County","FL",28.059027,-81.139312
+"Palm Beach County","FL",26.649126,-80.448354
+"Pasco County","FL",28.309823,-82.511006
+"Pinellas County","FL",27.905342,-82.798066
+"Polk County","FL",27.953649,-81.693534
+"Putnam County","FL",29.593896,-81.732039
+"St. Johns County","FL",29.890487,-81.40004
+"St. Lucie County","FL",27.379814,-80.443536
+"Santa Rosa County","FL",30.675348,-87.018919
+"Sarasota County","FL",27.225327,-82.423714
+"Seminole County","FL",28.690065,-81.131975
+"Sumter County","FL",28.715275,-82.069876
+"Suwannee County","FL",30.189244,-82.992754
+"Taylor County","FL",29.967146,-83.639573
+"Union County","FL",30.05428,-82.366918
+"Volusia County","FL",29.057769,-81.161792
+"Wakulla County","FL",30.091335,-84.359111
+"Walton County","FL",30.571247,-86.162798
+"Washington County","FL",30.602102,-85.655805
+"Appling County","GA",31.739712,-82.290103
+"Atkinson County","GA",31.296806,-82.878151
+"Bacon County","GA",31.55021,-82.451433
+"Baker County","GA",31.31958,-84.454881
+"Baldwin County","GA",33.05949,-83.255457
+"Banks County","GA",34.351922,-83.498441
+"Barrow County","GA",33.992009,-83.712303
+"Bartow County","GA",34.240917,-84.838188
+"Ben Hill County","GA",31.740772,-83.147197
+"Berrien County","GA",31.288652,-83.22787
+"Bibb County","GA",32.808845,-83.694194
+"Bleckley County","GA",32.435403,-83.331717
+"Brantley County","GA",31.197334,-81.982978
+"Brooks County","GA",30.822934,-83.581905
+"Bryan County","GA",32.017969,-81.438543
+"Bulloch County","GA",32.394481,-81.741618
+"Burke County","GA",33.060181,-82.000164
+"Butts County","GA",33.290355,-83.958221
+"Calhoun County","GA",31.521279,-84.62629
+"Camden County","GA",30.913358,-81.642019
+"Candler County","GA",32.40395,-82.071266
+"Carroll County","GA",33.582237,-85.080527
+"Catoosa County","GA",34.900212,-85.139385
+"Charlton County","GA",30.779904,-82.139644
+"Chatham County","GA",31.980404,-81.085184
+"Chattahoochee County","GA",32.347445,-84.788021
+"Chattooga County","GA",34.474178,-85.345289
+"Cherokee County","GA",34.244317,-84.475057
+"Clarke County","GA",33.952185,-83.367152
+"Clay County","GA",31.619831,-84.992583
+"Clayton County","GA",33.551603,-84.412868
+"Clinch County","GA",30.917653,-82.702614
+"Cobb County","GA",33.939929,-84.574121
+"Coffee County","GA",31.549245,-82.84494
+"Colquitt County","GA",31.189707,-83.769773
+"Columbia County","GA",33.552075,-82.249608
+"Cook County","GA",31.152516,-83.429445
+"Coweta County","GA",33.352897,-84.762138
+"Crawford County","GA",32.709428,-83.979187
+"Crisp County","GA",31.920268,-83.75653
+"Dade County","GA",34.852424,-85.506201
+"Dawson County","GA",34.442608,-84.173261
+"Decatur County","GA",30.880643,-84.58389
+"DeKalb County","GA",33.770661,-84.226343
+"Dodge County","GA",32.164369,-83.167866
+"Dooly County","GA",32.151995,-83.807167
+"Dougherty County","GA",31.532588,-84.20904
+"Douglas County","GA",33.701242,-84.767314
+"Early County","GA",31.324191,-84.906723
+"Echols County","GA",30.714008,-82.897376
+"Effingham County","GA",32.361688,-81.343355
+"Elbert County","GA",34.116415,-82.841892
+"Emanuel County","GA",32.5911,-82.299763
+"Evans County","GA",32.153083,-81.890153
+"Fannin County","GA",34.866543,-84.317331
+"Fayette County","GA",33.412717,-84.493941
+"Floyd County","GA",34.26369,-85.213685
+"Forsyth County","GA",34.225143,-84.127408
+"Franklin County","GA",34.375266,-83.227532
+"Fulton County","GA",33.790034,-84.468182
+"Gilmer County","GA",34.690523,-84.454811
+"Glascock County","GA",33.227491,-82.606913
+"Glynn County","GA",31.21271,-81.49645
+"Gordon County","GA",34.509667,-84.873862
+"Grady County","GA",30.8759,-84.244965
+"Greene County","GA",33.576704,-83.166625
+"Gwinnett County","GA",33.958756,-84.025735
+"Habersham County","GA",34.634392,-83.525875
+"Hall County","GA",34.317569,-83.8185
+"Hancock County","GA",33.26922,-83.000465
+"Haralson County","GA",33.795165,-85.220063
+"Harris County","GA",32.731549,-84.912432
+"Hart County","GA",34.348733,-82.96329
+"Heard County","GA",33.291347,-85.137886
+"Henry County","GA",33.452947,-84.154021
+"Houston County","GA",32.458147,-83.662309
+"Irwin County","GA",31.604306,-83.277037
+"Jackson County","GA",34.130905,-83.562557
+"Jasper County","GA",33.316981,-83.689151
+"Jeff Davis County","GA",31.811615,-82.636825
+"Jefferson County","GA",33.058176,-82.420004
+"Jenkins County","GA",32.794563,-81.971524
+"Johnson County","GA",32.694584,-82.66397
+"Jones County","GA",33.021664,-83.562196
+"Lamar County","GA",33.07444,-84.146689
+"Lanier County","GA",31.038197,-83.063164
+"Laurens County","GA",32.39322,-82.926317
+"Lee County","GA",31.818419,-84.146681
+"Liberty County","GA",31.807458,-81.457871
+"Lincoln County","GA",33.792151,-82.448299
+"Long County","GA",31.749563,-81.74287
+"Lowndes County","GA",30.833145,-83.268995
+"Lumpkin County","GA",34.56814,-83.998925
+"McDuffie County","GA",33.480613,-82.479533
+"McIntosh County","GA",31.485629,-81.372141
+"Macon County","GA",32.362686,-84.051231
+"Madison County","GA",34.128526,-83.203737
+"Marion County","GA",32.359312,-84.528735
+"Meriwether County","GA",33.029267,-84.667058
+"Miller County","GA",31.162931,-84.730398
+"Mitchell County","GA",31.228997,-84.192038
+"Monroe County","GA",33.018784,-83.921837
+"Montgomery County","GA",32.172108,-82.533349
+"Morgan County","GA",33.598696,-83.499435
+"Murray County","GA",34.797097,-84.73799
+"Muscogee County","GA",32.510197,-84.874946
+"Newton County","GA",33.552751,-83.85136
+"Oconee County","GA",33.834125,-83.437728
+"Oglethorpe County","GA",33.866806,-83.074081
+"Paulding County","GA",33.92103,-84.867169
+"Peach County","GA",32.571324,-83.831978
+"Pickens County","GA",34.456746,-84.490351
+"Pierce County","GA",31.353998,-82.21037
+"Pike County","GA",33.081149,-84.389462
+"Polk County","GA",33.996015,-85.188338
+"Pulaski County","GA",32.238803,-83.481845
+"Putnam County","GA",33.32106,-83.37179
+"Quitman County","GA",31.862938,-85.004798
+"Rabun County","GA",34.883934,-83.40487
+"Randolph County","GA",31.762651,-84.752311
+"Richmond County","GA",33.361486,-82.074998
+"Rockdale County","GA",33.652081,-84.02637
+"Schley County","GA",32.263444,-84.322708
+"Screven County","GA",32.744751,-81.617585
+"Seminole County","GA",30.93396,-84.867685
+"Spalding County","GA",33.262348,-84.284905
+"Stephens County","GA",34.553582,-83.290588
+"Stewart County","GA",32.073225,-84.834912
+"Sumter County","GA",32.042266,-84.204294
+"Talbot County","GA",32.704603,-84.530029
+"Taliaferro County","GA",33.559319,-82.875272
+"Tattnall County","GA",32.043768,-82.059208
+"Taylor County","GA",32.554667,-84.251426
+"Telfair County","GA",31.913641,-82.931063
+"Terrell County","GA",31.777191,-84.439446
+"Thomas County","GA",30.864619,-83.919815
+"Tift County","GA",31.457003,-83.525931
+"Toombs County","GA",32.117753,-82.330597
+"Towns County","GA",34.902529,-83.732264
+"Treutlen County","GA",32.409586,-82.570882
+"Troup County","GA",33.034482,-85.02836
+"Turner County","GA",31.7248,-83.620319
+"Twiggs County","GA",32.665847,-83.425879
+"Union County","GA",34.833333,-83.989257
+"Upson County","GA",32.881837,-84.292283
+"Walker County","GA",34.735802,-85.305456
+"Walton County","GA",33.783887,-83.731829
+"Ware County","GA",31.050881,-82.421507
+"Warren County","GA",33.419169,-82.688012
+"Washington County","GA",32.971843,-82.798112
+"Wayne County","GA",31.547845,-81.912376
+"Webster County","GA",32.046691,-84.553828
+"Wheeler County","GA",32.105258,-82.733849
+"White County","GA",34.644182,-83.743
+"Whitfield County","GA",34.801726,-84.968541
+"Wilcox County","GA",31.96272,-83.438259
+"Wilkes County","GA",33.779031,-82.747921
+"Wilkinson County","GA",32.804266,-83.175512
+"Worth County","GA",31.551773,-83.84996
+"Hawaii County","HI",19.597764,-155.502443
+"Honolulu County","HI",21.461365,-158.201974
+"Kalawao County","HI",21.218764,-156.97401
+"Kauai County","HI",22.012038,-159.705965
+"Maui County","HI",20.855931,-156.60155
+"Ada County","ID",43.451477,-116.244376
+"Adams County","ID",44.877004,-116.461624
+"Bannock County","ID",42.692921,-112.228982
+"Bear Lake County","ID",42.285892,-111.327517
+"Benewah County","ID",47.218451,-116.633541
+"Bingham County","ID",43.216357,-112.399206
+"Blaine County","ID",43.394192,-113.955371
+"Boise County","ID",43.987275,-115.71511
+"Bonner County","ID",48.324634,-116.62745
+"Bonneville County","ID",43.395171,-111.621878
+"Boundary County","ID",48.773131,-116.524668
+"Butte County","ID",43.685101,-113.177631
+"Camas County","ID",43.502552,-114.772135
+"Canyon County","ID",43.625796,-116.709058
+"Caribou County","ID",42.786072,-111.544273
+"Cassia County","ID",42.282313,-113.626328
+"Clark County","ID",44.290218,-112.354613
+"Clearwater County","ID",46.67257,-115.6535
+"Custer County","ID",44.273351,-114.252267
+"Elmore County","ID",43.394698,-115.471205
+"Franklin County","ID",42.173609,-111.822965
+"Fremont County","ID",44.218091,-111.484429
+"Gem County","ID",44.061473,-116.398784
+"Gooding County","ID",42.973185,-114.82142
+"Idaho County","ID",45.849644,-115.467337
+"Jefferson County","ID",43.796965,-112.318588
+"Jerome County","ID",42.691395,-114.262086
+"Kootenai County","ID",47.675957,-116.695919
+"Latah County","ID",46.81892,-116.730974
+"Lemhi County","ID",44.928506,-113.887042
+"Lewis County","ID",46.236328,-116.42376
+"Lincoln County","ID",42.990782,-114.153089
+"Madison County","ID",43.788614,-111.656993
+"Minidoka County","ID",42.857211,-113.63984
+"Nez Perce County","ID",46.333791,-116.760909
+"Oneida County","ID",42.183895,-112.520449
+"Owyhee County","ID",42.572851,-116.18969
+"Payette County","ID",44.00243,-116.750238
+"Power County","ID",42.694126,-112.844407
+"Shoshone County","ID",47.347694,-115.885092
+"Teton County","ID",43.760994,-111.211765
+"Twin Falls County","ID",42.352309,-114.665639
+"Valley County","ID",44.85596,-115.618061
+"Washington County","ID",44.448223,-116.797792
+"Adams County","IL",39.986052,-91.194961
+"Alexander County","IL",37.183658,-89.349516
+"Bond County","IL",38.885924,-89.436592
+"Boone County","IL",42.318983,-88.824295
+"Brown County","IL",39.962069,-90.750309
+"Bureau County","IL",41.401304,-89.528377
+"Calhoun County","IL",39.164262,-90.666295
+"Carroll County","IL",42.0709,-89.924189
+"Cass County","IL",39.969202,-90.245704
+"Champaign County","IL",40.138985,-88.196975
+"Christian County","IL",39.545524,-89.279593
+"Clark County","IL",39.332334,-87.791683
+"Clay County","IL",38.746819,-88.482325
+"Clinton County","IL",38.606295,-89.426228
+"Coles County","IL",39.51368,-88.220782
+"Cook County","IL",41.894294,-87.645455
+"Crawford County","IL",39.002787,-87.760619
+"Cumberland County","IL",39.273121,-88.240619
+"DeKalb County","IL",41.894612,-88.768991
+"De Witt County","IL",40.181499,-88.901853
+"Douglas County","IL",39.766078,-88.222866
+"DuPage County","IL",41.852058,-88.086039
+"Edgar County","IL",39.679037,-87.74711
+"Edwards County","IL",38.417095,-88.047941
+"Effingham County","IL",39.047945,-88.592849
+"Fayette County","IL",39.001125,-89.017923
+"Ford County","IL",40.596539,-88.224588
+"Franklin County","IL",37.991852,-88.926321
+"Fulton County","IL",40.46524,-90.202269
+"Gallatin County","IL",37.768677,-88.227964
+"Greene County","IL",39.355439,-90.387682
+"Grundy County","IL",41.29241,-88.401054
+"Hamilton County","IL",38.085227,-88.539009
+"Hancock County","IL",40.401318,-91.168801
+"Hardin County","IL",37.517852,-88.266148
+"Henderson County","IL",40.814471,-90.941246
+"Henry County","IL",41.350021,-90.130838
+"Iroquois County","IL",40.748867,-87.833601
+"Jackson County","IL",37.786096,-89.381212
+"Jasper County","IL",39.004886,-88.150725
+"Jefferson County","IL",38.30078,-88.92421
+"Jersey County","IL",39.080195,-90.361385
+"Jo Daviess County","IL",42.362391,-90.21147
+"Johnson County","IL",37.460709,-88.882131
+"Kane County","IL",41.939594,-88.42804
+"Kankakee County","IL",41.13951,-87.861117
+"Kendall County","IL",41.58814,-88.430626
+"Knox County","IL",40.930945,-90.213792
+"Lake County","IL",42.185968,-87.805939
+"LaSalle County","IL",41.343341,-88.885931
+"Lawrence County","IL",38.718954,-87.730221
+"Lee County","IL",41.747447,-89.299362
+"Livingston County","IL",40.894376,-88.552852
+"Logan County","IL",40.129277,-89.365309
+"McDonough County","IL",40.455808,-90.678954
+"McHenry County","IL",42.324298,-88.452245
+"McLean County","IL",40.494559,-88.844539
+"Macon County","IL",39.860237,-88.961529
+"Macoupin County","IL",39.265914,-89.92633
+"Madison County","IL",38.82712,-89.900227
+"Marion County","IL",38.648236,-88.920362
+"Marshall County","IL",41.031119,-89.342371
+"Mason County","IL",40.236993,-89.913575
+"Massac County","IL",37.216119,-88.705658
+"Menard County","IL",40.022569,-89.794133
+"Mercer County","IL",41.205605,-90.74177
+"Monroe County","IL",38.277983,-90.179078
+"Montgomery County","IL",39.228068,-89.478141
+"Morgan County","IL",39.717668,-90.205005
+"Moultrie County","IL",39.636896,-88.625726
+"Ogle County","IL",42.041884,-89.320176
+"Peoria County","IL",40.785972,-89.766993
+"Perry County","IL",38.084381,-89.368525
+"Piatt County","IL",40.009033,-88.592355
+"Pike County","IL",39.625106,-90.889034
+"Pope County","IL",37.417169,-88.542374
+"Pulaski County","IL",37.215615,-89.127755
+"Putnam County","IL",41.198961,-89.298347
+"Randolph County","IL",38.056515,-89.82121
+"Richland County","IL",38.712187,-88.085452
+"Rock Island County","IL",41.468421,-90.572125
+"St. Clair County","IL",38.470198,-89.928546
+"Saline County","IL",37.751508,-88.545024
+"Sangamon County","IL",39.756886,-89.662435
+"Schuyler County","IL",40.156905,-90.613464
+"Scott County","IL",39.637002,-90.477771
+"Shelby County","IL",39.384917,-88.798865
+"Stark County","IL",41.096908,-89.797411
+"Stephenson County","IL",42.349726,-89.665994
+"Tazewell County","IL",40.508074,-89.51626
+"Union County","IL",37.485652,-89.244639
+"Vermilion County","IL",40.186754,-87.726778
+"Wabash County","IL",38.445821,-87.839167
+"Warren County","IL",40.850441,-90.620223
+"Washington County","IL",38.35314,-89.417187
+"Wayne County","IL",38.431857,-88.43243
+"White County","IL",38.087326,-88.178623
+"Whiteside County","IL",41.750673,-89.911005
+"Will County","IL",41.448474,-87.978456
+"Williamson County","IL",37.730353,-88.930018
+"Winnebago County","IL",42.337396,-89.161205
+"Woodford County","IL",40.789787,-89.210587
+"Adams County","IN",40.74573,-84.936134
+"Allen County","IN",41.091909,-85.071791
+"Bartholomew County","IN",39.205843,-85.897999
+"Benton County","IN",40.600939,-87.314786
+"Blackford County","IN",40.472672,-85.32373
+"Boone County","IN",40.050892,-86.469014
+"Brown County","IN",39.195113,-86.230121
+"Carroll County","IN",40.58498,-86.565141
+"Cass County","IN",40.753799,-86.355168
+"Clark County","IN",38.476217,-85.711122
+"Clay County","IN",39.393928,-87.115858
+"Clinton County","IN",40.305944,-86.477567
+"Crawford County","IN",38.289433,-86.440871
+"Daviess County","IN",38.69609,-87.076943
+"Dearborn County","IN",39.140897,-84.975868
+"Decatur County","IN",39.30598,-85.499831
+"DeKalb County","IN",41.39676,-85.002697
+"Delaware County","IN",40.227543,-85.399262
+"Dubois County","IN",38.373344,-86.873385
+"Elkhart County","IN",41.600693,-85.863986
+"Fayette County","IN",39.639655,-85.185032
+"Floyd County","IN",38.318081,-85.911847
+"Fountain County","IN",40.121237,-87.234872
+"Franklin County","IN",39.409762,-85.066964
+"Fulton County","IN",41.050384,-86.265006
+"Gibson County","IN",38.317398,-87.580523
+"Grant County","IN",40.515758,-85.654946
+"Greene County","IN",39.047147,-87.004771
+"Hamilton County","IN",40.053513,-86.021709
+"Hancock County","IN",39.822529,-85.77315
+"Harrison County","IN",38.186454,-86.103766
+"Hendricks County","IN",39.768963,-86.509908
+"Henry County","IN",39.929591,-85.397363
+"Howard County","IN",40.483537,-86.114118
+"Huntington County","IN",40.826394,-85.478597
+"Jackson County","IN",38.911957,-86.042516
+"Jasper County","IN",41.017688,-87.118814
+"Jay County","IN",40.434956,-85.002331
+"Jefferson County","IN",38.783604,-85.44009
+"Jennings County","IN",38.996229,-85.628103
+"Johnson County","IN",39.496092,-86.094264
+"Knox County","IN",38.688381,-87.420358
+"Kosciusko County","IN",41.244293,-85.861575
+"LaGrange County","IN",41.642462,-85.427845
+"Lake County","IN",41.472247,-87.374337
+"LaPorte County","IN",41.549013,-86.744739
+"Lawrence County","IN",38.839815,-86.48782
+"Madison County","IN",40.166203,-85.722454
+"Marion County","IN",39.782976,-86.135794
+"Marshall County","IN",41.325003,-86.269036
+"Martin County","IN",38.705322,-86.801847
+"Miami County","IN",40.772883,-86.044258
+"Monroe County","IN",39.160729,-86.52331
+"Montgomery County","IN",40.040296,-86.892715
+"Morgan County","IN",39.482646,-86.447457
+"Newton County","IN",40.962399,-87.402172
+"Noble County","IN",41.404679,-85.417271
+"Ohio County","IN",38.940527,-84.964299
+"Orange County","IN",38.547381,-86.489257
+"Owen County","IN",39.317339,-86.838845
+"Parke County","IN",39.77425,-87.19695
+"Perry County","IN",38.081436,-86.62654
+"Pike County","IN",38.397961,-87.232547
+"Porter County","IN",41.509914,-87.071313
+"Posey County","IN",38.027614,-87.868653
+"Pulaski County","IN",41.045272,-86.692538
+"Putnam County","IN",39.665548,-86.853373
+"Randolph County","IN",40.164079,-85.00579
+"Ripley County","IN",39.100226,-85.260494
+"Rush County","IN",39.622362,-85.466529
+"St. Joseph County","IN",41.617723,-86.288048
+"Scott County","IN",38.679431,-85.751898
+"Shelby County","IN",39.524135,-85.792174
+"Spencer County","IN",38.009697,-87.010375
+"Starke County","IN",41.284478,-86.644636
+"Steuben County","IN",41.643467,-85.002405
+"Sullivan County","IN",39.089225,-87.415843
+"Switzerland County","IN",38.825854,-85.029681
+"Tippecanoe County","IN",40.389133,-86.893554
+"Tipton County","IN",40.310229,-86.056207
+"Union County","IN",39.623094,-84.925145
+"Vanderburgh County","IN",38.02007,-87.586166
+"Vermillion County","IN",39.854045,-87.462071
+"Vigo County","IN",39.430874,-87.390989
+"Wabash County","IN",40.843747,-85.795192
+"Warren County","IN",40.352498,-87.375163
+"Warrick County","IN",38.097728,-87.272049
+"Washington County","IN",38.600613,-86.104751
+"Wayne County","IN",39.863091,-85.006735
+"Wells County","IN",40.735547,-85.213349
+"White County","IN",40.75095,-86.864293
+"Whitley County","IN",41.136426,-85.501892
+"Adair County","IA",41.328528,-94.478164
+"Adams County","IA",41.021656,-94.696906
+"Allamakee County","IA",43.274964,-91.382751
+"Appanoose County","IA",40.744249,-92.873062
+"Audubon County","IA",41.679178,-94.904312
+"Benton County","IA",42.092547,-92.05763
+"Black Hawk County","IA",42.471132,-92.3076
+"Boone County","IA",42.038623,-93.938605
+"Bremer County","IA",42.780895,-92.327356
+"Buchanan County","IA",42.470328,-91.838666
+"Buena Vista County","IA",42.741522,-95.141432
+"Butler County","IA",42.734757,-92.780153
+"Calhoun County","IA",42.38617,-94.643683
+"Carroll County","IA",42.039502,-94.86765
+"Cass County","IA",41.333824,-94.933302
+"Cedar County","IA",41.77236,-91.132611
+"Cerro Gordo County","IA",43.074975,-93.250965
+"Cherokee County","IA",42.742737,-95.633262
+"Chickasaw County","IA",43.059741,-92.31721
+"Clarke County","IA",41.029726,-93.785259
+"Clay County","IA",43.081224,-95.149875
+"Clayton County","IA",42.840985,-91.323576
+"Clinton County","IA",41.898073,-90.534243
+"Crawford County","IA",42.043119,-95.38909
+"Dallas County","IA",41.68532,-94.040706
+"Davis County","IA",40.748089,-92.410345
+"Decatur County","IA",40.736379,-93.78458
+"Delaware County","IA",42.472937,-91.366767
+"Des Moines County","IA",40.915339,-91.186925
+"Dickinson County","IA",43.389611,-95.196057
+"Dubuque County","IA",42.463481,-90.878771
+"Emmet County","IA",43.377984,-94.66937
+"Fayette County","IA",42.864122,-91.840376
+"Floyd County","IA",43.052741,-92.787367
+"Franklin County","IA",42.736545,-93.271415
+"Fremont County","IA",40.74259,-95.599182
+"Greene County","IA",42.042513,-94.388727
+"Grundy County","IA",42.403339,-92.790244
+"Guthrie County","IA",41.683573,-94.501272
+"Hamilton County","IA",42.390789,-93.70913
+"Hancock County","IA",43.075411,-93.743697
+"Hardin County","IA",42.390208,-93.241669
+"Harrison County","IA",41.688584,-95.827149
+"Henry County","IA",40.984802,-91.547259
+"Howard County","IA",43.365312,-92.321908
+"Humboldt County","IA",42.782221,-94.202775
+"Ida County","IA",42.39186,-95.507421
+"Iowa County","IA",41.683918,-92.059123
+"Jackson County","IA",42.164226,-90.574582
+"Jasper County","IA",41.685551,-93.054147
+"Jefferson County","IA",41.006376,-91.966628
+"Johnson County","IA",41.670668,-91.590529
+"Jones County","IA",42.125118,-91.116914
+"Keokuk County","IA",41.331182,-92.167721
+"Kossuth County","IA",43.212356,-94.213965
+"Lee County","IA",40.647588,-91.477157
+"Linn County","IA",42.077951,-91.597674
+"Louisa County","IA",41.218211,-91.256994
+"Lucas County","IA",41.033344,-93.331467
+"Lyon County","IA",43.38358,-96.207201
+"Madison County","IA",41.330622,-94.015184
+"Mahaska County","IA",41.330797,-92.636366
+"Marion County","IA",41.331433,-93.093868
+"Marshall County","IA",42.0417,-92.981403
+"Mills County","IA",41.033703,-95.619101
+"Mitchell County","IA",43.348564,-92.784466
+"Monona County","IA",42.049432,-95.956566
+"Monroe County","IA",41.028847,-92.869642
+"Montgomery County","IA",41.021735,-95.15779
+"Muscatine County","IA",41.483776,-91.118699
+"OBrien County	1484153956	447448	573.035	0.173	43.083746	-95.625624                                                                                                                   
+IA	19143	00465260	Osceola County	1032593803	1835263	398.687	0.709	43.378542	-95.633788                                                                                                                  
+IA	19145	00465261	Page County	1385497642	1359014	534.944	0.525	40.739097	-95.144301                                                                                                                     
+IA	19147	00465262	Palo Alto County	1460400553	14428727	563.864	5.571	43.075337	-94.669055                                                                                                               
+IA	19149	00465263	Plymouth County	2234715258	2176851	862.828	0.84	42.737585	-96.215864                                                                                                                  
+IA	19151	00465264	Pocahontas County	1495047211	3666528	577.241	1.416	42.734033	-94.678279                                                                                                               
+IA	19153	00465265	Polk County	1482507931	50475974	572.4	19.489	41.684816	-93.568971                                                                                                                     
+IA	19155	00465266	Pottawattamie County	2463774735	20387191	951.269	7.872	41.340184	-95.544905                                                                                                           
+IA	19157	00465267	Poweshiek County	1514943343	2961952	584.923	1.144	41.684642	-92.522934                                                                                                                
+IA	19159	00465268	Ringgold County	1386932344	8723135	535.498	3.368	40.735334	-94.244251                                                                                                                 
+IA	19161	00465269	Sac County	1489300201	8569436	575.022	3.309	42.387526	-95.105224                                                                                                                      
+IA	19163	00465270	Scott County	1186463532	26196368	458.096	10.114	41.642079	-90.622289                                                                                                                  
+IA	19165	00465271	Shelby County	1530110527	1486125	590.779	0.574	41.679014	-95.308917                                                                                                                   
+IA	19167	00465272	Sioux County	1988881469	2802041	767.911	1.082	43.082646	-96.17801                                                                                                                     
+IA	19169	00465273	Story County	1482882554	2862354	572.544	1.105	42.037538	-93.466093                                                                                                                    
+IA	19171	00465274	Tama County	1867410499	2769418	721.011	1.069	42.074848	-92.529411                                                                                                                     
+IA	19173	00465275	Taylor County	1377618878	7133363	531.902	2.754	40.737949	-94.697108                                                                                                                   
+IA	19175	00465276	Union County	1097235803	5575854	423.645	2.153	41.02855	-94.245091                                                                                                                     
+IA	19177	00465277	Van Buren County	1255605676	14880499	484.792	5.745	40.754117	-91.952943                                                                                                               
+IA	19179	00465278	Wapello County	1118466908	10822775	431.843	4.179	41.031275	-92.409466                                                                                                                 
+IA	19181	00465279	Warren County	1475408395	8645070	569.658	3.338	41.332446	-93.568751                                                                                                                   
+IA	19183	00465280	Washington County	1473258541	5339036	568.828	2.061	41.329401	-91.725052                                                                                                               
+IA	19185	00465281	Wayne County	1360957549	4272458	525.469	1.65	40.739983	-93.332613                                                                                                                     
+IA	19187	00465282	Webster County	1853665899	7269394	715.704	2.807	42.433579	-94.175831                                                                                                                  
+IA	19189	00465283	Winnebago County	1037261956	3182049	400.489	1.229	43.378124	-93.743488                                                                                                                
+IA	19191	00465284	Winneshiek County	1786686748	745729	689.844	0.288	43.292989	-91.850788                                                                                                                
+IA	19193	00465285	Woodbury County	2260790944	12793700	872.896	4.94	42.39322	-96.053296                                                                                                                  
+IA	19195	00465286	Worth County	1036314929	4709127	400.123	1.818	43.373491	-93.248533                                                                                                                    
+IA	19197	00465287	Wright County	1503260259	4703964	580.412	1.816	42.733007	-93.734735                                                                                                                   
+KS	20001	00484970	Allen County	1295764236	13021929	500.297	5.028	37.884228	-95.300945                                                                                                                   
+KS	20003	00484971	Anderson County	1501264009	10599659	579.641	4.093	38.215114	-95.292046                                                                                                                
+KS	20005	00484972	Atchison County	1116736557	6851102	431.174	2.645	39.532544	-95.313397                                                                                                                 
+KS	20007	00484973	Barber County	2937240778	5411508	1134.075	2.089	37.222906	-98.685052                                                                                                                  
+KS	20009	00484974	Barton County	2318705423	13926862	895.257	5.377	38.481239	-98.767837                                                                                                                  
+KS	20011	00484975	Bourbon County	1645836646	9402853	635.461	3.63	37.8561	-94.850928                                                                                                                     
+KS	20013	00484976	Brown County	1478550074	3196147	570.871	1.234	39.825931	-95.569905                                                                                                                    
+KS	20015	00484977	Butler County	3702946933	43541269	1429.716	16.811	37.773649	-96.83884                                                                                                                 
+KS	20017	00484978	Chase County	2002198770	12091093	773.053	4.668	38.299475	-96.594029                                                                                                                   
+KS	20019	00484979	Chautauqua County	1654694134	15243776	638.881	5.886	37.154259	-96.245396                                                                                                              
+KS	20021	00484980	Cherokee County	1521791029	8951464	587.567	3.456	37.169392	-94.845698                                                                                                                 
+KS	20023	00484981	Cheyenne County	2641501921	2738021	1019.89	1.057	39.789917	-101.727325                                                                                                                
+KS	20025	00484982	Clark County	2524300310	6603384	974.638	2.55	37.233831	-99.813869                                                                                                                     
+KS	20027	00484983	Clay County	1671314413	26701337	645.298	10.309	39.344964	-97.168853                                                                                                                   
+KS	20029	00484984	Cloud County	1852726652	6859888	715.342	2.649	39.487329	-97.64139                                                                                                                     
+KS	20031	00484985	Coffey County	1623623909	70470788	626.885	27.209	38.23645	-95.729137                                                                                                                  
+KS	20033	00484986	Comanche County	2041681089	3604155	788.298	1.392	37.181442	-99.251293                                                                                                                 
+KS	20035	00484987	Cowley County	2915648165	17322935	1125.738	6.688	37.234507	-96.837247                                                                                                                 
+KS	20037	00484988	Crawford County	1527499258	13573629	589.771	5.241	37.505821	-94.853897                                                                                                                
+KS	20039	00484989	Decatur County	2314199333	1631670	893.517	0.63	39.783542	-100.459708                                                                                                                  
+KS	20041	00484990	Dickinson County	2193895358	12632458	847.068	4.877	38.867735	-97.157943                                                                                                               
+KS	20043	00484991	Doniphan County	1019105691	12424174	393.479	4.797	39.788502	-95.147225                                                                                                                
+KS	20045	00484992	Douglas County	1180428103	48875040	455.766	18.871	38.896417	-95.290947                                                                                                                
+KS	20047	00484993	Edwards County	1610699245	206413	621.894	0.08	37.883595	-99.304746                                                                                                                    
+KS	20049	00484994	Elk County	1668636743	16061112	644.264	6.201	37.456026	-96.244642                                                                                                                     
+KS	20051	00484995	Ellis County	2330762300	1197085	899.912	0.462	38.914597	-99.317313                                                                                                                    
+KS	20053	00484996	Ellsworth County	1853331063	19969761	715.575	7.71	38.700845	-98.205355                                                                                                                
+KS	20055	00485326	Finney County	3372157854	1716371	1301.997	0.663	38.049808	-100.739967                                                                                                                 
+KS	20057	00484997	Ford County	2844508243	2097356	1098.271	0.81	37.688416	-99.884748                                                                                                                     
+KS	20059	00484998	Franklin County	1480882204	13893465	571.772	5.364	38.558019	-95.278962                                                                                                                
+KS	20061	00484999	Geary County	996243013	51658044	384.652	19.945	39.002139	-96.7681                                                                                                                     
+KS	20063	00485000	Gove County	2775601942	245369	1071.666	0.095	38.917239	-100.48736                                                                                                                     
+KS	20065	00481811	Graham County	2327173854	599356	898.527	0.231	39.354972	-99.879894                                                                                                                    
+KS	20067	00485099	Grant County	1488745965	871232	574.808	0.336	37.547537	-101.299362                                                                                                                    
+KS	20069	00485001	Gray County	2250356173	1113338	868.867	0.43	37.744513	-100.451716                                                                                                                     
+KS	20071	00485002	Greeley County	2016057907	0	778.404	0.	38.480404	-101.80597                                                                                                                           
+KS	20073	00485003	Greenwood County	2961143636	24145021	1143.304	9.322	37.879347	-96.241732                                                                                                              
+KS	20075	00485327	Hamilton County	2580958328	2893322	996.514	1.117	37.995244	-101.793689                                                                                                                
+KS	20077	00485004	Harper County	2075290355	3899269	801.274	1.506	37.188184	-98.06659                                                                                                                    
+KS	20079	00485005	Harvey County	1397961178	2503283	539.756	0.967	38.050144	-97.436706                                                                                                                   
+KS	20081	00485328	Haskell County	1495772609	910409	577.521	0.352	37.554979	-100.879952                                                                                                                  
+KS	20083	00485006	Hodgeman County	2227369150	826344	859.992	0.319	38.087493	-99.898407                                                                                                                  
+KS	20085	00485007	Jackson County	1699600349	4666513	656.219	1.802	39.411145	-95.794485                                                                                                                  
+KS	20087	00485008	Jefferson County	1379494404	62293259	532.626	24.052	39.239644	-95.375314                                                                                                              
+KS	20089	00485009	Jewell County	2356813568	11367163	909.971	4.389	39.777005	-98.222619                                                                                                                  
+KS	20091	00485010	Johnson County	1226679687	16319024	473.624	6.301	38.883907	-94.82233                                                                                                                  
+KS	20093	00485011	Kearny County	2254696661	1133601	870.543	0.438	37.994461	-101.308136                                                                                                                  
+KS	20095	00485012	Kingman County	2236245128	8391920	863.419	3.24	37.552951	-98.144529                                                                                                                   
+KS	20097	00485013	Kiowa County	1871627806	596764	722.64	0.23	37.561231	-99.286539                                                                                                                       
+KS	20099	00485014	Labette County	1671560710	20006201	645.393	7.724	37.191468	-95.297473                                                                                                                 
+KS	20101	00485015	Lane County	1858080220	551220	717.409	0.213	38.481286	-100.466185                                                                                                                     
+KS	20103	00485016	Leavenworth County	1200218357	14338598	463.407	5.536	39.189511	-95.038977                                                                                                             
+KS	20105	00485017	Lincoln County	1863226707	2748359	719.396	1.061	39.04728	-98.214284                                                                                                                   
+KS	20107	00485018	Linn County	1538662702	31893232	594.081	12.314	38.216549	-94.844932                                                                                                                   
+KS	20109	00485019	Logan County	2779039723	274632	1072.993	0.106	38.91327	-101.157402                                                                                                                    
+KS	20111	00485020	Lyon County	2194958230	20561826	847.478	7.939	38.455403	-96.161641                                                                                                                    
+KS	20113	00485021	McPherson County	2326547428	6003328	898.285	2.318	38.395812	-97.647489                                                                                                                
+KS	20115	00485022	Marion County	2445722727	24432825	944.299	9.434	38.359647	-97.102771                                                                                                                  
+KS	20117	00485023	Marshall County	2331450540	12735557	900.178	4.917	39.782709	-96.521243                                                                                                                
+KS	20119	00485024	Meade County	2533222397	3258258	978.083	1.258	37.243886	-100.360094                                                                                                                   
+KS	20121	00485025	Miami County	1491519616	37234703	575.879	14.376	38.566772	-94.832963                                                                                                                  
+KS	20123	00485026	Mitchell County	1817632932	44979980	701.792	17.367	39.393026	-98.207362                                                                                                               
+KS	20125	00485027	Montgomery County	1666900085	20430012	643.594	7.888	37.189537	-95.742403                                                                                                              
+KS	20127	00485028	Morris County	1800929255	19545268	695.343	7.546	38.688204	-96.651448                                                                                                                  
+KS	20129	00485135	Morton County	1889993632	507796	729.731	0.196	37.185249	-101.809516                                                                                                                   
+KS	20131	00485029	Nemaha County	1858127933	5205446	717.427	2.01	39.791043	-96.005381                                                                                                                    
+KS	20133	00485030	Neosho County	1480129689	16350961	571.481	6.313	37.564283	-95.315682                                                                                                                  
+KS	20135	00485031	Ness County	2783562234	667491	1074.739	0.258	38.480437	-99.908745                                                                                                                     
+KS	20137	00485032	Norton County	2274122718	8421464	878.044	3.252	39.783867	-99.899235                                                                                                                   
+KS	20139	00485033	Osage County	1827253333	37137002	705.506	14.339	38.650215	-95.708255                                                                                                                  
+KS	20141	00485034	Osborne County	2311604929	4806274	892.516	1.856	39.348261	-98.767942                                                                                                                  
+KS	20143	00485035	Ottawa County	1866683177	1567629	720.73	0.605	39.137963	-97.654802                                                                                                                    
+KS	20145	00485036	Pawnee County	1953531647	992041	754.263	0.383	38.181477	-99.234772                                                                                                                    
+KS	20147	00485037	Phillips County	2294395636	22493383	885.871	8.685	39.784506	-99.34215                                                                                                                 
+KS	20149	00485038	Pottawatomie County	2177493041	54149843	840.735	20.907	39.382187	-96.337113                                                                                                           
+KS	20151	00485039	Pratt County	1903740948	1771939	735.039	0.684	37.647594	-98.74012                                                                                                                     
+KS	20153	00485040	Rawlins County	2769775708	415527	1069.416	0.16	39.786198	-101.076738                                                                                                                  
+KS	20155	00485041	Reno County	3251231985	43517492	1255.308	16.802	37.948185	-98.078346                                                                                                                  
+KS	20157	00485042	Republic County	1857998454	7951912	717.377	3.07	39.828906	-97.650883                                                                                                                  
+KS	20159	00485043	Rice County	1880936102	4482698	726.234	1.731	38.347178	-98.201415                                                                                                                     
+KS	20161	00485044	Riley County	1579010807	32092080	609.66	12.391	39.29121	-96.727488                                                                                                                    
+KS	20163	00485045	Rooks County	2306454194	11962259	890.527	4.619	39.346006	-99.324492                                                                                                                   
+KS	20165	00485358	Rush County	1858997559	544720	717.763	0.21	38.523596	-99.309184                                                                                                                       
+KS	20167	00485046	Russell County	2295402858	34126776	886.26	13.176	38.91604	-98.770949                                                                                                                  
+KS	20169	00485047	Saline County	1865429339	2760902	720.246	1.066	38.791804	-97.651478                                                                                                                   
+KS	20171	00485048	Scott County	1858536838	306079	717.585	0.118	38.481877	-100.90636                                                                                                                     
+KS	20173	00485049	Sedgwick County	2582051703	31558986	996.936	12.185	37.681045	-97.461054                                                                                                               
+KS	20175	00485050	Seward County	1656693304	1961444	639.653	0.757	37.18096	-100.855257                                                                                                                   
+KS	20177	00485051	Shawnee County	1409020132	30313507	544.026	11.704	39.041805	-95.755664                                                                                                                
+KS	20179	00485052	Sheridan County	2320518304	647342	895.957	0.25	39.350547	-100.441228                                                                                                                  
+KS	20181	00485053	Sherman County	2735193250	548248	1056.064	0.212	39.351352	-101.719859                                                                                                                 
+KS	20183	00484969	Smith County	2319241779	3884267	895.464	1.5	39.78466	-98.785429                                                                                                                       
+KS	20185	00485054	Stafford County	2051389756	7435417	792.046	2.871	38.03563	-98.719889                                                                                                                  
+KS	20187	00485055	Stanton County	1762103387	178555	680.352	0.069	37.565932	-101.789383                                                                                                                  
+KS	20189	00485056	Stevens County	1883593921	464936	727.26	0.18	37.2017	-101.317268                                                                                                                      
+KS	20191	00481812	Sumner County	3060505682	8512878	1181.668	3.287	37.236662	-97.493352                                                                                                                  
+KS	20193	00485057	Thomas County	2783425129	288241	1074.686	0.111	39.357713	-101.083386                                                                                                                  
+KS	20195	00485058	Trego County	2303727352	26281951	889.474	10.148	38.921302	-99.865423                                                                                                                  
+KS	20197	00485059	Wabaunsee County	2057320864	13845234	794.336	5.346	38.955154	-96.201262                                                                                                               
+KS	20199	00485060	Wallace County	2366348285	140936	913.652	0.054	38.926626	-101.771103                                                                                                                  
+KS	20201	00485061	Washington County	2317414332	10139473	894.759	3.915	39.776714	-97.095611                                                                                                              
+KS	20203	00485062	Wichita County	1861078197	61987	718.566	0.024	38.481922	-101.347434                                                                                                                   
+KS	20205	00485063	Wilson County	1477385742	12048762	570.422	4.652	37.558515	-95.745175                                                                                                                  
+KS	20207	00485064	Woodson County	1289344338	19254559	497.819	7.434	37.888193	-95.758469                                                                                                                 
+KS	20209	00485065	Wyandotte County	392739381	11801597	151.638	4.557	39.115384	-94.763087                                                                                                                
+KY	21001	00516847	Adair County	1049702545	18391917	405.292	7.101	37.105559	-85.28138                                                                                                                    
+KY	21003	00516848	Allen County	890240991	21079866	343.724	8.139	36.75077	-86.192458                                                                                                                     
+KY	21005	00516849	Anderson County	523849802	5244774	202.26	2.025	38.005396	-84.986417                                                                                                                   
+KY	21007	00516850	Ballard County	639972655	69636340	247.095	26.887	37.051323	-89.010367                                                                                                                 
+KY	21009	00516851	Barren County	1262269990	32723250	487.365	12.635	36.962805	-85.932108                                                                                                                 
+KY	21011	00516852	Bath County	719997080	15570646	277.992	6.012	38.152249	-83.737641                                                                                                                     
+KY	21013	00516853	Bell County	929803436	5484276	358.999	2.117	36.728928	-83.680718                                                                                                                      
+KY	21015	00516854	Boone County	637830300	26513521	246.268	10.237	38.9589	-84.736371                                                                                                                     
+KY	21017	00516855	Bourbon County	750448654	4820688	289.75	1.861	38.202562	-84.20986                                                                                                                     
+KY	21019	00516856	Boyd County	414051810	5571591	159.866	2.151	38.360003	-82.681406                                                                                                                      
+KY	21021	00516857	Boyle County	467067863	6486676	180.336	2.505	37.618104	-84.868352                                                                                                                     
+KY	21023	00516858	Bracken County	524900457	16279752	202.665	6.286	38.680365	-84.115235                                                                                                                  
+KY	21025	00516859	Breathitt County	1275366506	7370804	492.422	2.846	37.517807	-83.317158                                                                                                                
+KY	21027	00516860	Breckinridge County	1475580278	41098823	569.725	15.868	37.777988	-86.432919                                                                                                           
+KY	21029	00516861	Bullitt County	769444025	8237542	297.084	3.181	37.969945	-85.702635                                                                                                                   
+KY	21031	00516862	Butler County	1103624033	13891042	426.112	5.363	37.207013	-86.682471                                                                                                                  
+KY	21033	00516863	Caldwell County	893117876	8584485	344.835	3.314	37.148642	-87.870509                                                                                                                  
+KY	21035	00516864	Calloway County	996755843	66943042	384.85	25.847	36.620978	-88.274086                                                                                                                 
+KY	21037	00516865	Campbell County	391916807	20943964	151.32	8.087	38.946981	-84.379583                                                                                                                  
+KY	21039	00516866	Carlisle County	490706561	24648733	189.463	9.517	36.85718	-88.976614                                                                                                                  
+KY	21041	00516867	Carroll County	333331142	22186244	128.7	8.566	38.668394	-85.124024                                                                                                                    
+KY	21043	00516868	Carter County	1060593553	6782466	409.497	2.619	38.314094	-83.038988                                                                                                                   
+KY	21045	00516869	Casey County	1150621984	3842017	444.258	1.483	37.321962	-84.92822                                                                                                                     
+KY	21047	00516870	Christian County	1858729568	16531941	717.66	6.383	36.892059	-87.492986                                                                                                                
+KY	21049	00516871	Clark County	653924827	6943411	252.482	2.681	37.970314	-84.145115                                                                                                                     
+KY	21051	00516872	Clay County	1215470276	4754889	469.296	1.836	37.164273	-83.715454                                                                                                                     
+KY	21053	00516873	Clinton County	510391738	21636754	197.063	8.354	36.727258	-85.136098                                                                                                                  
+KY	21055	00516874	Crittenden County	931272391	30377986	359.566	11.729	37.358149	-88.10501                                                                                                               
+KY	21057	00516875	Cumberland County	790326358	14920717	305.147	5.761	36.782372	-85.388484                                                                                                               
+KY	21059	00516876	Daviess County	1187242067	46811527	458.397	18.074	37.731671	-87.087139                                                                                                                
+KY	21061	00516877	Edmonson County	784263747	13462746	302.806	5.198	37.227514	-86.218015                                                                                                                 
+KY	21063	00516878	Elliott County	606888298	2595857	234.321	1.002	38.116883	-83.096116                                                                                                                   
+KY	21065	00516879	Estill County	655477009	6549172	253.081	2.529	37.692449	-83.963983                                                                                                                    
+KY	21067	00516880	Fayette County	735181664	4434380	283.855	1.712	38.040678	-84.458272                                                                                                                   
+KY	21069	00516881	Fleming County	903057248	6844691	348.672	2.643	38.367848	-83.699205                                                                                                                   
+KY	21071	00516882	Floyd County	1018643075	6228697	393.3	2.405	37.552456	-82.739724                                                                                                                      
+KY	21073	00516883	Franklin County	538480613	10617911	207.909	4.1	38.234919	-84.868786                                                                                                                   
+KY	21075	00516884	Fulton County	533360972	64082320	205.932	24.742	36.552511	-89.187659                                                                                                                  
+KY	21077	00516885	Gallatin County	254547580	16452438	98.281	6.352	38.755663	-84.865143                                                                                                                  
+KY	21079	00516886	Garrard County	595501703	10415371	229.925	4.021	37.630162	-84.545856                                                                                                                  
+KY	21081	00516887	Grant County	668154250	7246883	257.976	2.798	38.649167	-84.625924                                                                                                                     
+KY	21083	00516888	Graves County	1429042910	13030079	551.757	5.031	36.723344	-88.649897                                                                                                                  
+KY	21085	00516889	Grayson County	1293792165	29767586	499.536	11.493	37.458577	-86.344011                                                                                                                
+KY	21087	00516890	Green County	740640299	7328706	285.963	2.83	37.278065	-85.537925                                                                                                                      
+KY	21089	00516891	Greenup County	892130684	25867697	344.454	9.988	38.563562	-82.93382                                                                                                                   
+KY	21091	00516892	Hancock County	486076270	29131626	187.675	11.248	37.843325	-86.792761                                                                                                                 
+KY	21093	00516893	Hardin County	1615891721	16123680	623.899	6.225	37.695836	-85.963183                                                                                                                  
+KY	21095	00516894	Harlan County	1206493478	6014134	465.83	2.322	36.859223	-83.221497                                                                                                                    
+KY	21097	00516895	Harrison County	793722604	8855951	306.458	3.419	38.444578	-84.334131                                                                                                                  
+KY	21099	00516896	Hart County	1068809200	13410820	412.67	5.178	37.305827	-85.878443                                                                                                                     
+KY	21101	00516897	Henderson County	1130168820	75607018	436.361	29.192	37.792542	-87.572577                                                                                                              
+KY	21103	00516898	Henry County	741386195	12616890	286.251	4.871	38.451383	-85.119647                                                                                                                    
+KY	21105	00516899	Hickman County	627634138	27735813	242.331	10.709	36.675896	-88.972084                                                                                                                 
+KY	21107	00516900	Hopkins County	1404258119	31671289	542.187	12.228	37.31107	-87.542196                                                                                                                 
+KY	21109	00516901	Jackson County	894134829	3328475	345.227	1.285	37.403458	-84.020576                                                                                                                   
+KY	21111	00516902	Jefferson County	986344428	43437019	380.83	16.771	38.189532	-85.657624                                                                                                                
+KY	21113	00516903	Jessamine County	445767041	6121602	172.112	2.364	37.873291	-84.58396                                                                                                                  
+KY	21115	00516904	Johnson County	678488580	5619567	261.966	2.17	37.847756	-82.830121                                                                                                                    
+KY	21117	00516905	Kenton County	415359132	10196816	160.371	3.937	38.930503	-84.533438                                                                                                                   
+KY	21119	00516906	Knott County	910442831	3438036	351.524	1.327	37.354368	-82.952546                                                                                                                     
+KY	21121	00516907	Knox County	1000590554	3676706	386.33	1.42	36.8885	-83.855551                                                                                                                         
+KY	21123	00516908	Larue County	676090529	6721655	261.04	2.595	37.544462	-85.696841                                                                                                                      
+KY	21125	00516909	Laurel County	1123286188	25873416	433.703	9.99	37.113268	-84.119395                                                                                                                   
+KY	21127	00516910	Lawrence County	1076391952	11578388	415.597	4.47	38.074453	-82.73829                                                                                                                  
+KY	21129	00516911	Lee County	540843067	6309608	208.821	2.436	37.608116	-83.719248                                                                                                                       
+KY	21131	00516912	Leslie County	1038269511	9125982	400.878	3.524	37.087846	-83.388617                                                                                                                   
+KY	21133	00516913	Letcher County	875244021	2847896	337.934	1.1	37.118536	-82.861251                                                                                                                     
+KY	21135	00516914	Lewis County	1250595455	31872268	482.858	12.306	38.535047	-83.370143                                                                                                                  
+KY	21137	00516915	Lincoln County	862215215	9037597	332.903	3.489	37.457174	-84.658335                                                                                                                   
+KY	21139	00516916	Livingston County	810561761	75614774	312.96	29.195	37.209517	-88.363426                                                                                                               
+KY	21141	00516917	Logan County	1430232787	12470413	552.216	4.815	36.859607	-86.881288                                                                                                                   
+KY	21143	00516918	Lyon County	553700579	110705475	213.785	42.744	37.023976	-88.083391                                                                                                                   
+KY	21145	00516925	McCracken County	644351557	49602861	248.786	19.152	37.054111	-88.712454                                                                                                               
+KY	21147	00516926	McCreary County	1105159773	10987658	426.705	4.242	36.731136	-84.491052                                                                                                                
+KY	21149	00516927	McLean County	654037067	9610577	252.525	3.711	37.526707	-87.265597                                                                                                                    
+KY	21151	00516919	Madison County	1134231010	13798845	437.929	5.328	37.725511	-84.278362                                                                                                                 
+KY	21153	00516920	Magoffin County	798864848	1848998	308.443	0.714	37.698983	-83.069721                                                                                                                  
+KY	21155	00516921	Marion County	889793041	8563275	343.551	3.306	37.552604	-85.268959                                                                                                                    
+KY	21157	00516922	Marshall County	782500004	98537659	302.125	38.046	36.882017	-88.332752                                                                                                                
+KY	21159	00516923	Martin County	594717447	2549460	229.622	0.984	37.796774	-82.506623                                                                                                                    
+KY	21161	00516924	Mason County	621926398	16274514	240.127	6.284	38.594137	-83.828125                                                                                                                    
+KY	21163	00516928	Meade County	791146057	49058672	305.463	18.942	37.967476	-86.200863                                                                                                                   
+KY	21165	00516929	Menifee County	527162212	6205679	203.538	2.396	37.935485	-83.589355                                                                                                                   
+KY	21167	00516930	Mercer County	645898189	10166125	249.383	3.925	37.812085	-84.879695                                                                                                                   
+KY	21169	00516931	Metcalfe County	750193212	3985177	289.651	1.539	36.99243	-85.633456                                                                                                                   
+KY	21171	00516932	Monroe County	853335721	6686907	329.475	2.582	36.714077	-85.713508                                                                                                                    
+KY	21173	00516933	Montgomery County	511202049	3786799	197.376	1.462	38.038109	-83.912416                                                                                                                
+KY	21175	00516934	Morgan County	987053731	6950463	381.104	2.684	37.92294	-83.258944                                                                                                                     
+KY	21177	00516935	Muhlenberg County	1210249680	31390324	467.28	12.12	37.213816	-87.134092                                                                                                               
+KY	21179	00516936	Nelson County	1084389929	13962497	418.685	5.391	37.80312	-85.465931                                                                                                                   
+KY	21181	00516937	Nicholas County	505839859	3936676	195.306	1.52	38.338031	-84.026223                                                                                                                   
+KY	21183	00516938	Ohio County	1520569116	23652967	587.095	9.132	37.477859	-86.844871                                                                                                                    
+KY	21185	00516939	Oldham County	485084364	23445201	187.292	9.052	38.400127	-85.45615                                                                                                                    
+KY	21187	00516940	Owen County	907751566	9741924	350.485	3.761	38.499395	-84.84159                                                                                                                       
+KY	21189	00516941	Owsley County	511268801	2299985	197.402	0.888	37.423622	-83.691637                                                                                                                    
+KY	21191	00516942	Pendleton County	717810239	12332855	277.148	4.762	38.696284	-84.351943                                                                                                                
+KY	21193	00516943	Perry County	879880331	7473919	339.724	2.886	37.241282	-83.217772                                                                                                                     
+KY	21195	00516944	Pike County	2036305633	6073018	786.222	2.345	37.486031	-82.410912                                                                                                                     
+KY	21197	00516945	Powell County	463508964	3003167	178.962	1.16	37.809567	-83.831235                                                                                                                     
+KY	21199	00516946	Pulaski County	1704469887	49351326	658.1	19.055	37.107452	-84.576969                                                                                                                  
+KY	21201	00516947	Robertson County	257938637	1333016	99.591	0.515	38.513473	-84.06423                                                                                                                   
+KY	21203	00516948	Rockcastle County	819904083	3961380	316.567	1.529	37.36105	-84.314368                                                                                                                 
+KY	21205	00516949	Rowan County	724888281	16537777	279.881	6.385	38.204266	-83.428079                                                                                                                    
+KY	21207	00516950	Russell County	655971056	76673438	253.272	29.604	36.990587	-85.05495                                                                                                                  
+KY	21209	00516951	Scott County	730870979	8350617	282.191	3.224	38.28571	-84.57834                                                                                                                       
+KY	21211	00516952	Shelby County	983652108	15210913	379.79	5.873	38.239011	-85.228247                                                                                                                    
+KY	21213	00516953	Simpson County	606511222	5930956	234.175	2.29	36.740937	-86.581793                                                                                                                    
+KY	21215	00516954	Spencer County	483473767	12916810	186.67	4.987	38.025313	-85.317312                                                                                                                   
+KY	21217	00516955	Taylor County	690009231	26953785	266.414	10.407	37.36621	-85.328059                                                                                                                   
+KY	21219	00516956	Todd County	969982839	6587918	374.512	2.544	36.840338	-87.183642                                                                                                                      
+KY	21221	00516957	Trigg County	1143304981	103337186	441.433	39.899	36.807681	-87.858652                                                                                                                 
+KY	21223	00516958	Trimble County	382723828	21257574	147.771	8.208	38.62004	-85.351208                                                                                                                   
+KY	21225	00516959	Union County	888050070	52667331	342.878	20.335	37.658029	-87.95165                                                                                                                    
+KY	21227	00516960	Warren County	1403057984	15127045	541.724	5.841	36.995634	-86.423579                                                                                                                  
+KY	21229	00516961	Washington County	769962860	10138826	297.284	3.915	37.754209	-85.175416                                                                                                               
+KY	21231	00516962	Wayne County	1186326542	67647953	458.043	26.119	36.800772	-84.82659                                                                                                                   
+KY	21233	00516963	Webster County	859944623	9398697	332.026	3.629	37.520375	-87.685206                                                                                                                   
+KY	21235	00516964	Whitley County	1134211587	18639649	437.922	7.197	36.758024	-84.144648                                                                                                                 
+KY	21237	00516965	Wolfe County	575390049	1534248	222.159	0.592	37.743893	-83.49511                                                                                                                      
+KY	21239	00516966	Woodford County	490993051	6380990	189.573	2.464	38.043103	-84.748855                                                                                                                  
+LA	22001	00558389	Acadia Parish	1697073813	5934788	655.244	2.291	30.291497	-92.411037                                                                                                                   
+LA	22003	00558397	Allen Parish	1973788820	10457653	762.084	4.038	30.652744	-92.819605                                                                                                                   
+LA	22005	00558403	Ascension Parish	751018420	32968280	289.97	12.729	30.206444	-90.912502                                                                                                                
+LA	22007	00558414	Assumption Parish	891009958	67104891	344.021	25.909	29.9033	-91.065219                                                                                                                
+LA	22009	00558424	Avoyelles Parish	2154720637	87260610	831.942	33.692	31.088503	-91.983275                                                                                                              
+LA	22011	00558436	Beauregard Parish	2997852791	21944259	1157.477	8.473	30.645018	-93.340253                                                                                                             
+LA	22013	00558445	Bienville Parish	2101370398	27972980	811.344	10.8	32.340952	-93.041151                                                                                                                
+LA	22015	00558453	Bossier Parish	2174491550	70806182	839.576	27.338	32.698481	-93.626561                                                                                                                
+LA	22017	00558458	Caddo Parish	2277812594	149099518	879.468	57.568	32.580106	-93.88497                                                                                                                  
+LA	22019	00558468	Calcasieu Parish	2755958086	77914414	1064.081	30.083	30.229559	-93.358015                                                                                                             
+LA	22021	00558477	Caldwell Parish	1372098436	29104196	529.77	11.237	32.101219	-92.114231                                                                                                                
+LA	22023	00558488	Cameron Parish	3327199807	1688890183	1284.639	652.084	29.871812	-93.164948                                                                                                            
+LA	22025	00558495	Catahoula Parish	1833776037	81356082	708.025	31.412	31.666517	-91.846703                                                                                                              
+LA	22027	00558505	Claiborne Parish	1954908517	32473223	754.794	12.538	32.82716	-92.989728                                                                                                               
+LA	22029	00558515	Concordia Parish	1805361926	130321298	697.054	50.317	31.469805	-91.626315                                                                                                             
+LA	22031	00558521	De Soto Parish	2269992650	46989193	876.449	18.143	32.059248	-93.740797                                                                                                                
+LA	22033	00558530	East Baton Rouge Parish	1179744890	38443657	455.502	14.843	30.54393	-91.093131                                                                                                        
+LA	22035	00558534	East Carroll Parish	1090092484	56411688	420.887	21.781	32.73017	-91.234141                                                                                                            
+LA	22037	00558542	East Feliciana Parish	1174022937	6150603	453.293	2.375	30.839784	-91.043434                                                                                                           
+LA	22039	00558551	Evangeline Parish	1715687375	44662183	662.431	17.244	30.720693	-92.404086                                                                                                             
+LA	22041	00558557	Franklin Parish	1616925546	28050179	624.298	10.83	32.139076	-91.672371                                                                                                                
+LA	22043	00558567	Grant Parish	1665848458	56005520	643.188	21.624	31.597787	-92.561716                                                                                                                  
+LA	22045	00558576	Iberia Parish	1488572462	1205958049	574.741	465.623	29.606013	-91.842706                                                                                                              
+LA	22047	00558582	Iberville Parish	1602476038	88659446	618.719	34.232	30.270653	-91.365872                                                                                                              
+LA	22049	00558592	Jackson Parish	1474681465	28647417	569.378	11.061	32.30429	-92.5617                                                                                                                   
+LA	22051	00558027	Jefferson Parish	779233472	883630890	300.864	341.172	29.5033	-90.036231                                                                                                               
+LA	22053	00558039	Jefferson Davis Parish	1687430141	18666917	651.52	7.207	30.269529	-92.816221                                                                                                          
+LA	22055	00558059	Lafayette Parish	696257603	1149127	268.827	0.444	30.206507	-92.06417                                                                                                                  
+LA	22057	00558065	Lafourche Parish	2765571303	1037643577	1067.793	400.636	29.491992	-90.394849                                                                                                          
+LA	22059	00558049	LaSalle Parish	1618363237	97655624	624.854	37.705	31.680083	-92.161596                                                                                                                
+LA	22061	00558077	Lincoln Parish	1221532396	1897706	471.636	0.733	32.601823	-92.662303                                                                                                                  
+LA	22063	00558083	Livingston Parish	1678652694	112175420	648.131	43.311	30.440419	-90.727474                                                                                                            
+LA	22065	00558088	Madison Parish	1616604801	68460376	624.175	26.433	32.346878	-91.231932                                                                                                                
+LA	22067	00558097	Morehouse Parish	2058910717	28888046	794.95	11.154	32.820008	-91.800399                                                                                                               
+LA	22069	00558108	Natchitoches Parish	3246092085	119733774	1253.323	46.229	31.732509	-93.082546                                                                                                         
+LA	22071	00558113	Orleans Parish	439001673	467099090	169.5	180.348	30.05342	-89.934502                                                                                                                  
+LA	22073	00558114	Ouachita Parish	1580797959	55327711	610.35	21.362	32.480932	-92.151581                                                                                                                
+LA	22075	00558125	Plaquemines Parish	2020676390	4628435461	780.188	1787.049	29.282447	-89.576068                                                                                                        
+LA	22077	00559449	Pointe Coupee Parish	1442300231	86716680	556.875	33.481	30.708319	-91.604621                                                                                                          
+LA	22079	00559460	Rapides Parish	3420935889	105385798	1320.831	40.69	31.193204	-92.535953                                                                                                               
+LA	22081	00559472	Red River Parish	1007453088	34259705	388.98	13.228	32.101213	-93.34905                                                                                                                
+LA	22083	00559481	Richland Parish	1439031396	22771218	555.613	8.792	32.413158	-91.748353                                                                                                                
+LA	22085	00559489	Sabine Parish	2244547678	375313525	866.625	144.909	31.560402	-93.559579                                                                                                               
+LA	22087	01629542	St. Bernard Parish	977763283	4604190778	377.517	1777.688	29.91811	-89.263494                                                                                                          
+LA	22089	01629449	St. Charles Parish	719347894	308635080	277.742	119.165	29.905722	-90.357855                                                                                                           
+LA	22091	01629457	St. Helena Parish	1058078903	2796358	408.527	1.08	30.822539	-90.708307                                                                                                                
+LA	22093	01629464	St. James Parish	616057915	38773983	237.861	14.971	30.024777	-90.793956                                                                                                               
+LA	22095	01629472	St. John the Baptist Parish	555484721	506440074	214.474	195.538	30.144068	-90.49096                                                                                                   
+LA	22097	01629479	St. Landry Parish	2393224007	39013551	924.029	15.063	30.583441	-91.989274                                                                                                             
+LA	22099	01629486	St. Martin Parish	1910038831	205294657	737.47	79.265	30.121433	-91.611481                                                                                                             
+LA	22101	01629492	St. Mary Parish	1446578733	1453492316	558.527	561.197	29.629349	-91.463804                                                                                                            
+LA	22103	01629503	St. Tammany Parish	2189234360	648416550	845.268	250.355	30.410022	-89.951962                                                                                                          
+LA	22105	00559500	Tangipahoa Parish	2049124443	136690438	791.171	52.776	30.621348	-90.40649                                                                                                             
+LA	22107	00559509	Tensas Parish	1561795836	99432220	603.013	38.391	32.001489	-91.342576                                                                                                                 
+LA	22109	00559517	Terrebonne Parish	3185395699	2207589252	1229.888	852.355	29.33413	-90.843674                                                                                                          
+LA	22111	00559528	Union Parish	2271194160	73615328	876.913	28.423	32.829349	-92.37565                                                                                                                   
+LA	22113	00559538	Vermilion Parish	3035611921	932167176	1172.056	359.912	29.806638	-92.321394                                                                                                           
+LA	22115	00559548	Vernon Parish	3436208063	35118476	1326.727	13.559	31.102841	-93.18833                                                                                                                 
+LA	22117	00559557	Washington Parish	1734352072	16140411	669.637	6.232	30.852144	-90.046253                                                                                                              
+LA	22119	00559567	Webster Parish	1536688180	55947134	593.319	21.601	32.732152	-93.339825                                                                                                                
+LA	22121	00559570	West Baton Rouge Parish	498174685	29604699	192.346	11.43	30.464052	-91.309808                                                                                                         
+LA	22123	00559578	West Carroll Parish	931582171	2386489	359.686	0.921	32.79248	-91.451998                                                                                                               
+LA	22125	00559584	West Feliciana Parish	1044584261	58751920	403.316	22.684	30.873364	-91.421776                                                                                                         
+LA	22127	00559594	Winn Parish	2460497667	17449604	950.004	6.737	31.941187	-92.641269                                                                                                                    
+ME	23001	00581286	Androscoggin County	1211995417	75541706	467.954	29.167	44.167681	-70.207435                                                                                                           
+ME	23003	00581287	Aroostook County	17278035038	404869424	6671.087	156.321	46.709193	-68.612409                                                                                                          
+ME	23005	00581288	Cumberland County	2165736308	987475618	836.195	381.266	43.808348	-70.330375                                                                                                           
+ME	23007	00581289	Franklin County	4395226692	121284631	1697.007	46.828	44.976724	-70.414935                                                                                                             
+ME	23009	00581290	Hancock County	4110642800	1962698999	1587.128	757.802	44.564906	-68.370703                                                                                                            
+ME	23011	00581291	Kennebec County	2246742799	216787826	867.472	83.702	44.417012	-69.765764                                                                                                              
+ME	23013	00581292	Knox County	945723205	2017077723	365.146	778.798	44.042045	-69.038514                                                                                                                 
+ME	23015	00581293	Lincoln County	1180688993	631299424	455.867	243.746	43.994781	-69.513624                                                                                                              
+ME	23017	00581294	Oxford County	5379294383	255884970	2076.957	98.798	44.4945	-70.734421                                                                                                                 
+ME	23019	00581295	Penobscot County	8798661092	414021728	3397.182	159.855	45.409284	-68.666616                                                                                                           
+ME	23021	00581296	Piscataquis County	10258545866	1080517302	3960.847	417.19	45.915639	-69.102231                                                                                                        
+ME	23023	00581297	Sagadahoc County	657801805	300571247	253.979	116.051	43.916845	-69.844227                                                                                                             
+ME	23025	00581298	Somerset County	10163811990	437942552	3924.27	169.091	45.503646	-69.95611                                                                                                             
+ME	23027	00581299	Waldo County	1890642743	317988397	729.981	122.776	44.505822	-69.138961                                                                                                                
+ME	23029	00581300	Washington County	6637438306	1799878157	2562.729	694.937	44.967009	-67.609354                                                                                                         
+ME	23031	00581301	York County	2567186515	721352437	991.196	278.516	43.426019	-70.668425                                                                                                                 
+MD	24001	01713506	Allegany County	1093489886	14710932	422.199	5.68	39.612313	-78.703104                                                                                                                 
+MD	24003	01710958	Anne Arundel County	1074343715	448054686	414.806	172.995	38.991617	-76.560894                                                                                                         
+MD	24005	01695314	Baltimore County	1549740652	215957832	598.358	83.382	39.443167	-76.616569                                                                                                             
+MD	24009	01676636	Calvert County	552158541	341580669	213.19	131.885	38.522719	-76.529762                                                                                                                
+MD	24011	00595737	Caroline County	827350253	16777065	319.442	6.478	38.871531	-75.831662                                                                                                                 
+MD	24013	01696228	Carroll County	1159355858	13112464	447.63	5.063	39.563328	-77.01533                                                                                                                   
+MD	24015	00596115	Cecil County	896912534	185281256	346.3	71.537	39.562354	-75.941585                                                                                                                    
+MD	24017	01676992	Charles County	1185763588	479433084	457.826	185.11	38.472853	-77.015427                                                                                                               
+MD	24019	00596495	Dorchester County	1400573748	1145353067	540.765	442.223	38.429196	-76.047433                                                                                                          
+MD	24021	01711211	Frederick County	1710961099	17635238	660.606	6.809	39.470177	-77.397636                                                                                                               
+MD	24023	01711058	Garrett County	1681102438	22498420	649.077	8.687	39.547299	-79.274619                                                                                                                 
+MD	24025	01698178	Harford County	1132149296	231888421	437.125	89.533	39.537429	-76.299789                                                                                                               
+MD	24027	01709077	Howard County	649957177	6336170	250.95	2.446	39.252264	-76.924406                                                                                                                     
+MD	24029	00593907	Kent County	717394874	353423861	276.988	136.458	39.241279	-76.125987                                                                                                                  
+MD	24031	01712500	Montgomery County	1277247584	35632258	493.148	13.758	39.137381	-77.203063                                                                                                             
+MD	24033	01714670	Prince Georges County","IA",38.829278,-76.848188
+"Queen Annes County	962618587	360075353	371.669	139.026	39.040693	-76.082405                                                                                                          
+MD	24037	01697853	St. Marys County","MD",38.223077,-76.534487
+"Somerset County","MD",38.07445,-75.853323
+"Talbot County","MD",38.748349,-76.178476
+"Washington County","MD",39.603621,-77.814671
+"Wicomico County","MD",38.36737,-75.632083
+"Worcester County","MD",38.222133,-75.309931
+"Baltimore city","MD",39.300032,-76.610476
+"Barnstable County","MA",41.706123,-70.164823
+"Berkshire County","MA",42.371493,-73.217928
+"Bristol County","MA",41.748588,-71.088894
+"Dukes County","MA",41.38097,-70.701499
+"Essex County","MA",42.642708,-70.864909
+"Franklin County","MA",42.584504,-72.591792
+"Hampden County","MA",42.136198,-72.635648
+"Hampshire County","MA",42.339459,-72.663694
+"Middlesex County","MA",42.481718,-71.394916
+"Nantucket County","MA",41.293392,-70.102164
+"Norfolk County","MA",42.171738,-71.18111
+"Plymouth County","MA",41.987196,-70.741942
+"Suffolk County","MA",42.338551,-71.018253
+"Worcester County","MA",42.311693,-71.940282
+"Alcona County","MI",44.657509,-83.29458
+"Alger County","MI",46.521736,-86.657119
+"Allegan County","MI",42.421251,-86.261403
+"Alpena County","MI",44.894954,-83.426574
+"Antrim County","MI",45.005455,-85.175639
+"Arenac County","MI",44.036833,-83.740675
+"Baraga County","MI",46.695859,-88.36181
+"Barry County","MI",42.582811,-85.31455
+"Bay County","MI",43.699711,-83.978701
+"Benzie County","MI",44.636844,-86.231999
+"Berrien County","MI",41.791382,-86.742543
+"Branch County","MI",41.918455,-85.066885
+"Calhoun County","MI",42.24299,-85.012385
+"Cass County","MI",41.917243,-86.000142
+"Charlevoix County","MI",45.618554,-85.543684
+"Cheboygan County","MI",45.476022,-84.495431
+"Chippewa County","MI",46.321819,-84.52063
+"Clare County","MI",43.991137,-84.838325
+"Clinton County","MI",42.950455,-84.591695
+"Crawford County","MI",44.680175,-84.611343
+"Delta County","MI",45.805229,-86.901938
+"Dickinson County","MI",46.012833,-87.866139
+"Eaton County","MI",42.58953,-84.84645
+"Emmet County","MI",45.590094,-84.986822
+"Genesee County","MI",43.021077,-83.706372
+"Gladwin County","MI",43.98975,-84.389816
+"Gogebic County","MI",46.488054,-89.788314
+"Grand Traverse County","MI",44.718688,-85.553848
+"Gratiot County","MI",43.292326,-84.60469
+"Hillsdale County","MI",41.927461,-84.637479
+"Houghton County","MI",46.998427,-88.651903
+"Huron County","MI",43.907616,-82.857045
+"Ingham County","MI",42.603534,-84.373811
+"Ionia County","MI",42.94465,-85.073766
+"Iosco County","MI",44.386912,-83.380141
+"Iron County","MI",46.170254,-88.540526
+"Isabella County","MI",43.645233,-84.839424
+"Jackson County","MI",42.248474,-84.420868
+"Kalamazoo County","MI",42.246266,-85.532854
+"Kalkaska County","MI",44.678881,-85.088992
+"Kent County","MI",43.032497,-85.547446
+"Keweenaw County","MI",47.367297,-88.351332
+"Lake County","MI",43.995187,-85.8114
+"Lapeer County","MI",43.088633,-83.224325
+"Leelanau County","MI",45.146182,-86.051574
+"Lenawee County","MI",41.896022,-84.074356
+"Livingston County","MI",42.602532,-83.911718
+"Luce County","MI",46.510988,-85.517552
+"Mackinac County","MI",46.167868,-85.303762
+"Macomb County","MI",42.671553,-82.911456
+"Manistee County","MI",44.245268,-86.327537
+"Marquette County","MI",46.656596,-87.584028
+"Mason County","MI",43.957196,-86.442937
+"Mecosta County","MI",43.635295,-85.332751
+"Menominee County","MI",45.535568,-87.501457
+"Midland County","MI",43.648203,-84.379414
+"Missaukee County","MI",44.325424,-85.085471
+"Monroe County","MI",41.916097,-83.487106
+"Montcalm County","MI",43.312782,-85.149468
+"Montmorency County","MI",45.024134,-84.130107
+"Muskegon County","MI",43.428739,-86.420908
+"Newaygo County","MI",43.562712,-85.791372
+"Oakland County","MI",42.660452,-83.38421
+"Oceana County","MI",43.603954,-86.467177
+"Ogemaw County","MI",44.33328,-84.128073
+"Ontonagon County","MI",46.835325,-89.276912
+"Osceola County","MI",43.997552,-85.322283
+"Oscoda County","MI",44.687257,-84.126905
+"Otsego County","MI",45.021787,-84.576603
+"Ottawa County","MI",43.054969,-86.219349
+"Presque Isle County","MI",45.252397,-83.432283
+"Roscommon County","MI",44.339517,-84.611271
+"Saginaw County","MI",43.328267,-84.05541
+"St. Clair County","MI",42.928803,-82.668913
+"St. Joseph County","MI",41.911488,-85.52287
+"Sanilac County","MI",43.449155,-82.642815
+"Schoolcraft County","MI",46.021122,-86.197029
+"Shiawassee County","MI",42.951545,-84.146352
+"Tuscola County","MI",43.487902,-83.436618
+"Van Buren County","MI",42.28215,-86.306076
+"Washtenaw County","MI",42.252217,-83.843423
+"Wayne County","MI",42.284664,-83.261953
+"Wexford County","MI",44.331375,-85.570046
+"Aitkin County","MN",46.602446,-93.41976
+"Anoka County","MN",45.27411,-93.242723
+"Becker County","MN",46.937629,-95.741757
+"Beltrami County","MN",47.879508,-95.00505
+"Benton County","MN",45.701225,-94.00144
+"Big Stone County","MN",45.419925,-96.402226
+"Blue Earth County","MN",44.03371,-94.064012
+"Brown County","MN",44.246541,-94.733647
+"Carlton County","MN",46.603818,-92.671044
+"Carver County","MN",44.82132,-93.800091
+"Cass County","MN",46.951745,-94.333705
+"Chippewa County","MN",45.028625,-95.564108
+"Chisago County","MN",45.505444,-92.903849
+"Clay County","MN",46.898377,-96.494901
+"Clearwater County","MN",47.575873,-95.371117
+"Cook County","MN",47.758556,-90.344319
+"Cottonwood County","MN",44.010639,-95.183152
+"Crow Wing County","MN",46.491653,-94.070718
+"Dakota County","MN",44.670893,-93.062481
+"Dodge County","MN",44.020706,-92.869353
+"Douglas County","MN",45.936835,-95.462155
+"Faribault County","MN",43.676522,-93.947234
+"Fillmore County","MN",43.679187,-92.093937
+"Freeborn County","MN",43.674202,-93.350289
+"Goodhue County","MN",44.406178,-92.716
+"Grant County","MN",45.930743,-96.010699
+"Hennepin County","MN",45.006121,-93.475228
+"Houston County","MN",43.66699,-91.501556
+"Hubbard County","MN",47.095551,-94.91329
+"Isanti County","MN",45.562431,-93.296339
+"Itasca County","MN",47.490817,-93.611102
+"Jackson County","MN",43.671111,-95.149731
+"Kanabec County","MN",45.94776,-93.297788
+"Kandiyohi County","MN",45.152714,-95.004981
+"Kittson County","MN",48.77604,-96.780349
+"Koochiching County","MN",48.245374,-93.782896
+"Lac qui Parle County","MN",44.999856,-96.176836
+"Lake County","MN",47.517111,-91.411704
+"Lake of the Woods County","MN",48.7681,-94.904633
+"Le Sueur County","MN",44.373421,-93.730106
+"Lincoln County","MN",44.408238,-96.272032
+"Lyon County","MN",44.409195,-95.847268
+"McLeod County","MN",44.821657,-94.272323
+"Mahnomen County","MN",47.328387,-95.811089
+"Marshall County","MN",48.362728,-96.357761
+"Martin County","MN",43.677173,-94.547096
+"Meeker County","MN",45.123155,-94.527346
+"Mille Lacs County","MN",45.929043,-93.632996
+"Morrison County","MN",46.020484,-94.266619
+"Mower County","MN",43.666249,-92.759514
+"Murray County","MN",44.015594,-95.761581
+"Nicollet County","MN",44.35882,-94.245684
+"Nobles County","MN",43.677686,-95.763132
+"Norman County","MN",47.329453,-96.463776
+"Olmsted County","MN",43.9995,-92.410096
+"Otter Tail County","MN",46.405727,-95.714581
+"Pennington County","MN",48.069247,-96.037725
+"Pine County","MN",46.10094,-92.763094
+"Pipestone County","MN",44.015361,-96.257015
+"Polk County","MN",47.774254,-96.400027
+"Pope County","MN",45.589623,-95.446705
+"Ramsey County","MN",45.015204,-93.099965
+"Red Lake County","MN",47.865487,-96.08718
+"Redwood County","MN",44.403536,-95.254241
+"Renville County","MN",44.723697,-94.955617
+"Rice County","MN",44.350775,-93.298513
+"Rock County","MN",43.669587,-96.263238
+"Roseau County","MN",48.761068,-95.821504
+"St. Louis County","MN",47.578635,-92.514585
+"Scott County","MN",44.651811,-93.533733
+"Sherburne County","MN",45.453176,-93.76913
+"Sibley County","MN",44.575734,-94.230123
+"Stearns County","MN",45.555235,-94.610482
+"Steele County","MN",44.015261,-93.220453
+"Stevens County","MN",45.593461,-95.992315
+"Swift County","MN",45.27581,-95.690124
+"Todd County","MN",46.066569,-94.900576
+"Traverse County","MN",45.769935,-96.474832
+"Wabasha County","MN",44.289634,-92.233454
+"Wadena County","MN",46.586986,-94.988608
+"Waseca County","MN",44.01846,-93.589844
+"Washington County","MN",45.037929,-92.890117
+"Watonwan County","MN",43.978109,-94.613798
+"Wilkin County","MN",46.362335,-96.476657
+"Winona County","MN",43.981353,-91.777044
+"Wright County","MN",45.175091,-93.966396
+"Yellow Medicine County","MN",44.715736,-95.862756
+"Adams County","MS",31.486224,-91.351797
+"Alcorn County","MS",34.886569,-88.581109
+"Amite County","MS",31.203933,-90.795542
+"Attala County","MS",33.090468,-89.588622
+"Benton County","MS",34.809593,-89.200213
+"Bolivar County","MS",33.799139,-90.88412
+"Calhoun County","MS",33.936634,-89.337114
+"Carroll County","MS",33.440795,-89.918887
+"Chickasaw County","MS",33.933277,-88.947558
+"Choctaw County","MS",33.345964,-89.251332
+"Claiborne County","MS",31.97281,-90.915424
+"Clarke County","MS",32.045374,-88.687976
+"Clay County","MS",33.65967,-88.782468
+"Coahoma County","MS",34.230316,-90.60401
+"Copiah County","MS",31.866915,-90.448758
+"Covington County","MS",31.633331,-89.548897
+"DeSoto County","MS",34.874922,-89.991211
+"Forrest County","MS",31.18858,-89.259447
+"Franklin County","MS",31.477773,-90.895457
+"George County","MS",30.855431,-88.642268
+"Greene County","MS",31.212845,-88.634811
+"Grenada County","MS",33.770031,-89.80274
+"Hancock County","MS",30.391641,-89.482791
+"Harrison County","MS",30.416536,-89.083376
+"Hinds County","MS",32.267788,-90.466017
+"Holmes County","MS",33.125942,-90.091197
+"Humphreys County","MS",33.130996,-90.523421
+"Issaquena County","MS",32.755539,-91.003535
+"Itawamba County","MS",34.281075,-88.363127
+"Jackson County","MS",30.456005,-88.625101
+"Jasper County","MS",32.016748,-89.119176
+"Jefferson County","MS",31.733633,-91.043878
+"Jefferson Davis County","MS",31.564808,-89.827086
+"Jones County","MS",31.616601,-89.168532
+"Kemper County","MS",32.750136,-88.625631
+"Lafayette County","MS",34.353078,-89.485385
+"Lamar County","MS",31.197586,-89.506369
+"Lauderdale County","MS",32.403998,-88.660449
+"Lawrence County","MS",31.550009,-90.10753
+"Leake County","MS",32.76063,-89.52225
+"Lee County","MS",34.29237,-88.682439
+"Leflore County","MS",33.54979,-90.294934
+"Lincoln County","MS",31.535216,-90.453566
+"Lowndes County","MS",33.471424,-88.439723
+"Madison County","MS",32.63437,-90.03416
+"Marion County","MS",31.230167,-89.821712
+"Marshall County","MS",34.76619,-89.504231
+"Monroe County","MS",33.89003,-88.485038
+"Montgomery County","MS",33.500714,-89.639625
+"Neshoba County","MS",32.752518,-89.119274
+"Newton County","MS",32.40197,-89.118412
+"Noxubee County","MS",33.106606,-88.566152
+"Oktibbeha County","MS",33.422313,-88.876151
+"Panola County","MS",34.365205,-89.963065
+"Pearl River County","MS",30.774793,-89.586904
+"Perry County","MS",31.169307,-88.988755
+"Pike County","MS",31.177516,-90.397725
+"Pontotoc County","MS",34.227081,-89.037239
+"Prentiss County","MS",34.620566,-88.522184
+"Quitman County","MS",34.252833,-90.290171
+"Rankin County","MS",32.267123,-89.946063
+"Scott County","MS",32.411959,-89.533486
+"Sharkey County","MS",32.892395,-90.827613
+"Simpson County","MS",31.902505,-89.917709
+"Smith County","MS",32.019029,-89.494876
+"Stone County","MS",30.790184,-89.112297
+"Sunflower County","MS",33.605529,-90.59509
+"Tallahatchie County","MS",33.954529,-90.172243
+"Tate County","MS",34.649553,-89.943105
+"Tippah County","MS",34.763618,-88.918819
+"Tishomingo County","MS",34.738835,-88.234827
+"Tunica County","MS",34.652201,-90.37177
+"Union County","MS",34.489533,-89.002339
+"Walthall County","MS",31.164492,-90.103431
+"Warren County","MS",32.356095,-90.852384
+"Washington County","MS",33.273174,-90.944446
+"Wayne County","MS",31.642503,-88.678214
+"Webster County","MS",33.612061,-89.283961
+"Wilkinson County","MS",31.161091,-91.324617
+"Winston County","MS",33.078724,-89.037391
+"Yalobusha County","MS",34.030666,-89.703807
+"Yazoo County","MS",32.765675,-90.387928
+"Adair County","MO",40.190666,-92.603592
+"Andrew County","MO",39.988863,-94.803551
+"Atchison County","MO",40.431846,-95.437555
+"Audrain County","MO",39.214481,-91.843418
+"Barry County","MO",36.699376,-93.834334
+"Barton County","MO",37.500799,-94.344089
+"Bates County","MO",38.257217,-94.339246
+"Benton County","MO",38.301036,-93.287942
+"Bollinger County","MO",37.318427,-90.024645
+"Boone County","MO",38.989861,-92.310202
+"Buchanan County","MO",39.660369,-94.808173
+"Butler County","MO",36.71518,-90.40313
+"Caldwell County","MO",39.658998,-93.979179
+"Callaway County","MO",38.835547,-91.923446
+"Camden County","MO",38.026527,-92.765327
+"Cape Girardeau County","MO",37.384141,-89.685658
+"Carroll County","MO",39.427375,-93.500227
+"Carter County","MO",36.944858,-90.945705
+"Cass County","MO",38.646474,-94.354547
+"Cedar County","MO",37.733655,-93.850014
+"Chariton County","MO",39.517968,-92.96162
+"Christian County","MO",36.969739,-93.187614
+"Clark County","MO",40.407275,-91.729472
+"Clay County","MO",39.315551,-94.421502
+"Clinton County","MO",39.608723,-94.395803
+"Cole County","MO",38.503233,-92.280027
+"Cooper County","MO",38.847093,-92.810069
+"Crawford County","MO",37.966559,-91.313936
+"Dade County","MO",37.43235,-93.854878
+"Dallas County","MO",37.683583,-93.033815
+"Daviess County","MO",39.962839,-93.970053
+"DeKalb County","MO",39.894665,-94.40719
+"Dent County","MO",37.603072,-91.489717
+"Douglas County","MO",36.946517,-92.515892
+"Dunklin County","MO",36.153025,-90.062254
+"Franklin County","MO",38.413003,-91.072832
+"Gasconade County","MO",38.441183,-91.50578
+"Gentry County","MO",40.208127,-94.405321
+"Greene County","MO",37.258196,-93.340641
+"Grundy County","MO",40.112541,-93.565054
+"Harrison County","MO",40.34562,-93.992582
+"Henry County","MO",38.386491,-93.792628
+"Hickory County","MO",37.93691,-93.322988
+"Holt County","MO",40.095724,-95.219072
+"Howard County","MO",39.143365,-92.695926
+"Howell County","MO",36.774369,-91.887368
+"Iron County","MO",37.625971,-90.699587
+"Jackson County","MO",39.005364,-94.343211
+"Jasper County","MO",37.205197,-94.337259
+"Jefferson County","MO",38.25763,-90.543681
+"Johnson County","MO",38.741528,-93.811863
+"Knox County","MO",40.136856,-92.146835
+"Laclede County","MO",37.659698,-92.594843
+"Lafayette County","MO",39.068705,-93.802639
+"Lawrence County","MO",37.10659,-93.830551
+"Lewis County","MO",40.084559,-91.728803
+"Lincoln County","MO",39.062255,-90.962916
+"Linn County","MO",39.86444,-93.108019
+"Livingston County","MO",39.778587,-93.548201
+"McDonald County","MO",36.627955,-94.343716
+"Macon County","MO",39.829795,-92.56434
+"Madison County","MO",37.474481,-90.343413
+"Maries County","MO",38.162615,-91.923601
+"Marion County","MO",39.807538,-91.635379
+"Mercer County","MO",40.421413,-93.567631
+"Miller County","MO",38.21668,-92.429876
+"Mississippi County","MO",36.826264,-89.295929
+"Moniteau County","MO",38.633037,-92.583642
+"Monroe County","MO",39.49827,-92.006458
+"Montgomery County","MO",38.935184,-91.465427
+"Morgan County","MO",38.420806,-92.874835
+"New Madrid County","MO",36.594261,-89.655948
+"Newton County","MO",36.908371,-94.335034
+"Nodaway County","MO",40.361136,-94.883146
+"Oregon County","MO",36.68531,-91.401827
+"Osage County","MO",38.464253,-91.859504
+"Ozark County","MO",36.64959,-92.458549
+"Pemiscot County","MO",36.209916,-89.785942
+"Perry County","MO",37.71113,-89.802125
+"Pettis County","MO",38.727367,-93.285207
+"Phelps County","MO",37.866326,-91.790349
+"Pike County","MO",39.339959,-91.171607
+"Platte County","MO",39.37869,-94.761477
+"Polk County","MO",37.616761,-93.400817
+"Pulaski County","MO",37.824835,-92.207022
+"Putnam County","MO",40.478606,-93.014531
+"Ralls County","MO",39.553455,-91.524787
+"Randolph County","MO",39.439249,-92.492959
+"Ray County","MO",39.308401,-93.995746
+"Reynolds County","MO",37.366464,-90.972282
+"Ripley County","MO",36.65017,-90.874834
+"St. Charles County","MO",38.781102,-90.674915
+"St. Clair County","MO",38.04223,-93.77656
+"Ste. Genevieve County","MO",37.885845,-90.161531
+"St. Francois County","MO",37.810707,-90.473868
+"St. Louis County","MO",38.640688,-90.446073
+"Saline County","MO",39.13584,-93.204164
+"Schuyler County","MO",40.469361,-92.519016
+"Scotland County","MO",40.447686,-92.142824
+"Scott County","MO",37.047793,-89.568098
+"Shannon County","MO",37.152498,-91.391328
+"Shelby County","MO",39.797531,-92.088719
+"Stoddard County","MO",36.851557,-89.947481
+"Stone County","MO",36.745822,-93.457842
+"Sullivan County","MO",40.209587,-93.109783
+"Taney County","MO",36.649827,-93.042819
+"Texas County","MO",37.314257,-91.964478
+"Vernon County","MO",37.850196,-94.341597
+"Warren County","MO",38.761902,-91.159306
+"Washington County","MO",37.942611,-90.897018
+"Wayne County","MO",37.111074,-90.453931
+"Webster County","MO",37.280804,-92.87608
+"Worth County","MO",40.480499,-94.419198
+"Wright County","MO",37.267633,-92.479989
+"St. Louis city","MO",38.635699,-90.244582
+"Beaverhead County","MT",45.133863,-112.892869
+"Big Horn County","MT",45.407868,-107.518162
+"Blaine County","MT",48.428282,-108.967648
+"Broadwater County","MT",46.329849,-111.497873
+"Carbon County","MT",45.224468,-109.028554
+"Carter County","MT",45.516825,-104.515324
+"Cascade County","MT",47.316575,-111.350262
+"Chouteau County","MT",47.886834,-110.4362
+"Custer County","MT",46.261414,-105.550352
+"Daniels County","MT",48.794429,-105.541739
+"Dawson County","MT",47.26613,-104.898271
+"Deer Lodge County","MT",46.094672,-113.141624
+"Fallon County","MT",46.318184,-104.405718
+"Fergus County","MT",47.221816,-109.232956
+"Flathead County","MT",48.295422,-114.052059
+"Gallatin County","MT",45.518054,-111.163921
+"Garfield County","MT",47.267184,-106.995991
+"Glacier County","MT",48.705671,-112.990502
+"Golden Valley County","MT",46.380624,-109.174586
+"Granite County","MT",46.395955,-113.427356
+"Hill County","MT",48.631959,-110.106321
+"Jefferson County","MT",46.124232,-112.059428
+"Judith Basin County","MT",47.032558,-110.30532
+"Lake County","MT",47.642901,-114.083687
+"Lewis and Clark County","MT",47.132013,-112.373367
+"Liberty County","MT",48.559654,-111.036924
+"Lincoln County","MT",48.552385,-115.463185
+"McCone County","MT",47.629628,-105.757222
+"Madison County","MT",45.32529,-111.913791
+"Meagher County","MT",46.5857,-110.92174
+"Mineral County","MT",47.129687,-115.085385
+"Missoula County","MT",47.027263,-113.892691
+"Musselshell County","MT",46.505281,-108.439763
+"Park County","MT",45.463081,-110.53493
+"Petroleum County","MT",47.141917,-108.226575
+"Phillips County","MT",48.250143,-107.928897
+"Pondera County","MT",48.228604,-112.220761
+"Powder River County","MT",45.408926,-105.555344
+"Powell County","MT",46.844225,-112.9311
+"Prairie County","MT",46.812384,-105.503994
+"Ravalli County","MT",46.077744,-114.105795
+"Richland County","MT",47.785633,-104.563408
+"Roosevelt County","MT",48.282747,-104.99517
+"Rosebud County","MT",46.173206,-106.666792
+"Sanders County","MT",47.756497,-115.180306
+"Sheridan County","MT",48.705587,-104.533916
+"Silver Bow County","MT",45.896232,-112.660071
+"Stillwater County","MT",45.658545,-109.381576
+"Sweet Grass County","MT",45.811292,-109.944796
+"Teton County","MT",47.819035,-112.281725
+"Toole County","MT",48.645125,-111.733472
+"Treasure County","MT",46.229441,-107.285772
+"Valley County","MT",48.34985,-106.670424
+"Wheatland County","MT",46.496967,-109.857684
+"Wibaux County","MT",46.962966,-104.274518
+"Yellowstone County","MT",45.936987,-108.276656
+"Adams County","NE",40.520632,-98.500044
+"Antelope County","NE",42.183225,-98.058037
+"Arthur County","NE",41.57193,-101.695917
+"Banner County","NE",41.53975,-103.726263
+"Blaine County","NE",41.931945,-99.996407
+"Boone County","NE",41.703934,-98.070476
+"Box Butte County","NE",42.21038,-103.081779
+"Boyd County","NE",42.894448,-98.773022
+"Brown County","NE",42.359562,-99.92392
+"Buffalo County","NE",40.855265,-99.074984
+"Burt County","NE",41.854179,-96.337746
+"Butler County","NE",41.226072,-97.132039
+"Cass County","NE",40.909878,-96.140609
+"Cedar County","NE",42.60456,-97.25687
+"Chase County","NE",40.53039,-101.694192
+"Cherry County","NE",42.571323,-101.047653
+"Cheyenne County","NE",41.214236,-103.011929
+"Clay County","NE",40.523669,-98.050858
+"Colfax County","NE",41.57496,-97.088945
+"Cuming County","NE",41.915865,-96.788517
+"Custer County","NE",41.393893,-99.726866
+"Dakota County","NE",42.391624,-96.561327
+"Dawes County","NE",42.713038,-103.135436
+"Dawson County","NE",40.86784,-99.815583
+"Deuel County","NE",41.111903,-102.332609
+"Dixon County","NE",42.485086,-96.855784
+"Dodge County","NE",41.577008,-96.645852
+"Douglas County","NE",41.297091,-96.154066
+"Dundy County","NE",40.180165,-101.681133
+"Fillmore County","NE",40.52504,-97.596705
+"Franklin County","NE",40.183203,-98.96208
+"Frontier County","NE",40.530947,-100.406683
+"Furnas County","NE",40.191865,-99.909663
+"Gage County","NE",40.255234,-96.683453
+"Garden County","NE",41.633364,-102.302985
+"Garfield County","NE",41.906868,-98.951231
+"Gosper County","NE",40.509095,-99.823206
+"Grant County","NE",41.913957,-101.755965
+"Greeley County","NE",41.567571,-98.530565
+"Hall County","NE",40.866027,-98.502664
+"Hamilton County","NE",40.872817,-98.022329
+"Harlan County","NE",40.178766,-99.403418
+"Hayes County","NE",40.537234,-101.047963
+"Hitchcock County","NE",40.176896,-101.044217
+"Holt County","NE",42.459287,-98.784766
+"Hooker County","NE",41.920317,-101.117324
+"Howard County","NE",41.216851,-98.513342
+"Jefferson County","NE",40.175736,-97.143103
+"Johnson County","NE",40.394955,-96.265264
+"Kearney County","NE",40.50912,-98.947602
+"Keith County","NE",41.194245,-101.644449
+"Keya Paha County","NE",42.87548,-99.718351
+"Kimball County","NE",41.199274,-103.703153
+"Knox County","NE",42.634404,-97.891349
+"Lancaster County","NE",40.783547,-96.688658
+"Lincoln County","NE",41.050322,-100.744481
+"Logan County","NE",41.542155,-100.443665
+"Loup County","NE",41.903183,-99.509852
+"McPherson County","NE",41.648414,-101.120851
+"Madison County","NE",41.909929,-97.606856
+"Merrick County","NE",41.16979,-98.031057
+"Morrill County","NE",41.732204,-102.990594
+"Nance County","NE",41.402385,-97.991408
+"Nemaha County","NE",40.387389,-95.852721
+"Nuckolls County","NE",40.176492,-98.046842
+"Otoe County","NE",40.637992,-96.131027
+"Pawnee County","NE",40.137797,-96.245214
+"Perkins County","NE",40.857646,-101.627468
+"Phelps County","NE",40.516365,-99.406557
+"Pierce County","NE",42.271413,-97.610992
+"Platte County","NE",41.576866,-97.513467
+"Polk County","NE",41.187925,-97.570663
+"Red Willow County","NE",40.16942,-100.468576
+"Richardson County","NE",40.123743,-95.718603
+"Rock County","NE",42.394749,-99.420851
+"Saline County","NE",40.516802,-97.131755
+"Sarpy County","NE",41.115064,-96.109125
+"Saunders County","NE",41.223388,-96.642097
+"Scotts Bluff County","NE",41.850506,-103.703021
+"Seward County","NE",40.871944,-97.140383
+"Sheridan County","NE",42.512289,-102.36828
+"Sherman County","NE",41.218743,-98.972849
+"Sioux County","NE",42.470668,-103.73217
+"Stanton County","NE",41.905045,-97.177109
+"Thayer County","NE",40.173487,-97.596186
+"Thomas County","NE",41.85573,-100.524703
+"Thurston County","NE",42.154061,-96.533943
+"Valley County","NE",41.564094,-98.983484
+"Washington County","NE",41.533973,-96.224577
+"Wayne County","NE",42.210746,-97.126243
+"Webster County","NE",40.180646,-98.49859
+"Wheeler County","NE",41.922575,-98.520853
+"York County","NE",40.873056,-97.596742
+"Churchill County","NV",39.53771,-118.264166
+"Clark County","NV",36.21413,-115.014398
+"Douglas County","NV",38.905129,-119.609019
+"Elko County","NV",41.141133,-115.351424
+"Esmeralda County","NV",37.778966,-117.632382
+"Eureka County","NV",39.977788,-116.272208
+"Humboldt County","NV",41.407914,-118.127591
+"Lander County","NV",39.90021,-117.04724
+"Lincoln County","NV",37.634605,-114.863037
+"Lyon County","NV",39.022213,-119.197425
+"Mineral County","NV",38.516647,-118.416279
+"Nye County","NV",37.965864,-116.459011
+"Pershing County","NV",40.439639,-118.409477
+"Storey County","NV",39.438385,-119.524646
+"Washoe County","NV",40.73132,-119.663269
+"White Pine County","NV",39.418176,-114.900565
+"Carson City","NV",39.15306,-119.747368
+"Belknap County","NH",43.519109,-71.425366
+"Carroll County","NH",43.867774,-71.20156
+"Cheshire County","NH",42.92546,-72.248183
+"Coos County","NH",44.652548,-71.289431
+"Grafton County","NH",43.926439,-71.842424
+"Hillsborough County","NH",42.911532,-71.723055
+"Merrimack County","NH",43.299579,-71.680041
+"Rockingham County","NH",42.988664,-71.09908
+"Strafford County","NH",43.293272,-71.035589
+"Sullivan County","NH",43.361188,-72.222084
+"Atlantic County","NJ",39.469355,-74.633759
+"Bergen County","NJ",40.959698,-74.074727
+"Burlington County","NJ",39.875786,-74.663006
+"Camden County","NJ",39.802407,-74.961249
+"Cape May County","NJ",39.085841,-74.846354
+"Cumberland County","NJ",39.328434,-75.121628
+"Essex County","NJ",40.7874,-74.246292
+"Gloucester County","NJ",39.722875,-75.145679
+"Hudson County","NJ",40.731375,-74.078601
+"Hunterdon County","NJ",40.565283,-74.911969
+"Mercer County","NJ",40.282503,-74.703724
+"Middlesex County","NJ",40.439621,-74.40743
+"Monmouth County","NJ",40.287048,-74.152446
+"Morris County","NJ",40.858896,-74.547292
+"Ocean County","NJ",39.865669,-74.258864
+"Passaic County","NJ",41.036655,-74.299408
+"Salem County","NJ",39.573828,-75.357356
+"Somerset County","NJ",40.565527,-74.619938
+"Sussex County","NJ",41.137461,-74.691914
+"Union County","NJ",40.659871,-74.308696
+"Warren County","NJ",40.853491,-75.009498
+"Bernalillo County","NM",35.053628,-106.66908
+"Catron County","NM",33.901621,-108.391928
+"Chaves County","NM",33.361604,-104.469837
+"Cibola County","NM",34.928272,-107.99268
+"Colfax County","NM",36.612964,-104.64011
+"Curry County","NM",34.572984,-103.346055
+"De Baca County","NM",34.359273,-104.368696
+"Doña Ana County","NM",32.349919,-106.834968
+"Eddy County","NM",32.457835,-104.306434
+"Grant County","NM",32.732087,-108.381504
+"Guadalupe County","NM",34.869782,-104.784968
+"Harding County","NM",35.859352,-103.853424
+"Hidalgo County","NM",31.898052,-108.751929
+"Lea County","NM",32.795687,-103.413271
+"Lincoln County","NM",33.740841,-105.449805
+"Los Alamos County","NM",35.870047,-106.307968
+"Luna County","NM",32.184523,-107.747191
+"McKinley County","NM",35.584062,-108.253294
+"Mora County","NM",35.982841,-104.921898
+"Otero County","NM",32.615599,-105.751308
+"Quay County","NM",35.107018,-103.548071
+"Rio Arriba County","NM",36.509669,-106.693983
+"Roosevelt County","NM",34.021207,-103.483004
+"Sandoval County","NM",35.685091,-106.883119
+"San Juan County","NM",36.511624,-108.324578
+"San Miguel County","NM",35.476859,-104.803519
+"Santa Fe County","NM",35.514531,-105.963972
+"Sierra County","NM",33.119468,-107.188161
+"Socorro County","NM",33.991658,-106.939136
+"Taos County","NM",36.577183,-105.638878
+"Torrance County","NM",34.554978,-105.890557
+"Union County","NM",36.488085,-103.475723
+"Valencia County","NM",34.71684,-106.806582
+"Albany County","NY",42.58824,-73.97401
+"Allegany County","NY",42.247853,-78.026153
+"Bronx County","NY",40.848711,-73.852939
+"Broome County","NY",42.161977,-75.830283
+"Cattaraugus County","NY",42.239099,-78.662332
+"Cayuga County","NY",43.008546,-76.574587
+"Chautauqua County","NY",42.304216,-79.407595
+"Chemung County","NY",42.148697,-76.752471
+"Chenango County","NY",42.478024,-75.602241
+"Clinton County","NY",44.752712,-73.705643
+"Columbia County","NY",42.247696,-73.626718
+"Cortland County","NY",42.594039,-76.07624
+"Delaware County","NY",42.193986,-74.966728
+"Dutchess County","NY",41.754825,-73.740014
+"Erie County","NY",42.752759,-78.778192
+"Essex County","NY",44.109601,-73.778431
+"Franklin County","NY",44.594376,-74.31067
+"Fulton County","NY",43.115609,-74.423678
+"Genesee County","NY",43.00091,-78.192778
+"Greene County","NY",42.279821,-74.142025
+"Hamilton County","NY",43.657879,-74.502456
+"Herkimer County","NY",43.571009,-74.841097
+"Jefferson County","NY",43.996389,-76.052968
+"Kings County","NY",40.635045,-73.95064
+"Lewis County","NY",43.782681,-75.44414
+"Livingston County","NY",42.729042,-77.778463
+"Madison County","NY",42.910026,-75.663575
+"Monroe County","NY",43.250347,-77.700518
+"Montgomery County","NY",42.900891,-74.435357
+"Nassau County","NY",40.729612,-73.589414
+"New York County","NY",40.776642,-73.970187
+"Niagara County","NY",43.272672,-78.812943
+"Oneida County","NY",43.242727,-75.434282
+"Onondaga County","NY",43.006516,-76.196134
+"Ontario County","NY",42.856357,-77.303497
+"Orange County","NY",41.40241,-74.306252
+"Orleans County","NY",43.339906,-78.207028
+"Oswego County","NY",43.461443,-76.209262
+"Otsego County","NY",42.629776,-75.028841
+"Putnam County","NY",41.427907,-73.743861
+"Queens County","NY",40.654658,-73.841209
+"Rensselaer County","NY",42.710421,-73.513845
+"Richmond County","NY",40.561263,-74.1399
+"Rockland County","NY",41.154628,-74.024662
+"St. Lawrence County","NY",44.488112,-75.074311
+"Saratoga County","NY",43.106135,-73.855387
+"Schenectady County","NY",42.817552,-74.043559
+"Schoharie County","NY",42.591294,-74.438172
+"Schuyler County","NY",42.419776,-76.938603
+"Seneca County","NY",42.782294,-76.827088
+"Steuben County","NY",42.266725,-77.385525
+"Suffolk County","NY",40.943554,-72.692218
+"Sullivan County","NY",41.719993,-74.771577
+"Tioga County","NY",42.178057,-76.297456
+"Tompkins County","NY",42.453006,-76.473483
+"Ulster County","NY",41.947212,-74.265458
+"Warren County","NY",43.555105,-73.838139
+"Washington County","NY",43.312377,-73.439428
+"Wayne County","NY",43.218114,-77.049402
+"Westchester County","NY",41.152686,-73.745753
+"Wyoming County","NY",42.701363,-78.228567
+"Yates County","NY",42.638237,-77.104324
+"Alamance County","NC",36.043954,-79.400573
+"Alexander County","NC",35.920951,-81.177467
+"Alleghany County","NC",36.489356,-81.132299
+"Anson County","NC",34.974972,-80.109763
+"Ashe County","NC",36.443469,-81.499334
+"Avery County","NC",36.07209,-81.920285
+"Beaufort County","NC",35.482313,-76.842014
+"Bertie County","NC",36.059043,-76.962364
+"Bladen County","NC",34.591938,-78.539489
+"Brunswick County","NC",34.038754,-78.227765
+"Buncombe County","NC",35.609371,-82.530423
+"Burke County","NC",35.746182,-81.70618
+"Cabarrus County","NC",35.388346,-80.552728
+"Caldwell County","NC",35.966396,-81.51254
+"Camden County","NC",36.342344,-76.162488
+"Carteret County","NC",34.858343,-76.53586
+"Caswell County","NC",36.394298,-79.339609
+"Catawba County","NC",35.661883,-81.214906
+"Chatham County","NC",35.704994,-79.251454
+"Cherokee County","NC",35.13715,-84.061449
+"Chowan County","NC",36.128979,-76.602752
+"Clay County","NC",35.052997,-83.752264
+"Cleveland County","NC",35.33463,-81.557114
+"Columbus County","NC",34.261602,-78.639308
+"Craven County","NC",35.116829,-77.08132
+"Cumberland County","NC",35.050192,-78.828719
+"Currituck County","NC",36.372174,-75.941224
+"Dare County","NC",35.606269,-75.767536
+"Davidson County","NC",35.795131,-80.207107
+"Davie County","NC",35.929355,-80.542552
+"Duplin County","NC",34.934403,-77.933543
+"Durham County","NC",36.033828,-78.878125
+"Edgecombe County","NC",35.917077,-77.602742
+"Forsyth County","NC",36.132466,-80.256961
+"Franklin County","NC",36.088241,-78.28309
+"Gaston County","NC",35.293344,-81.177256
+"Gates County","NC",36.442135,-76.702355
+"Graham County","NC",35.348364,-83.830915
+"Granville County","NC",36.299884,-78.657634
+"Greene County","NC",35.481959,-77.681688
+"Guilford County","NC",36.079065,-79.788665
+"Halifax County","NC",36.251438,-77.644842
+"Harnett County","NC",35.368635,-78.87161
+"Haywood County","NC",35.558882,-82.981307
+"Henderson County","NC",35.336415,-82.479741
+"Hertford County","NC",36.363517,-76.981616
+"Hoke County","NC",35.017233,-79.241964
+"Hyde County","NC",35.408157,-76.153687
+"Iredell County","NC",35.806251,-80.874524
+"Jackson County","NC",35.285454,-83.123966
+"Johnston County","NC",35.513419,-78.367348
+"Jones County","NC",35.032268,-77.356195
+"Lee County","NC",35.476336,-79.172117
+"Lenoir County","NC",35.240066,-77.635514
+"Lincoln County","NC",35.488491,-81.226893
+"McDowell County","NC",35.682271,-82.048044
+"Macon County","NC",35.152959,-83.421901
+"Madison County","NC",35.864206,-82.712631
+"Martin County","NC",35.847301,-77.119602
+"Mecklenburg County","NC",35.246862,-80.833832
+"Mitchell County","NC",36.013102,-82.163554
+"Montgomery County","NC",35.327548,-79.910752
+"Moore County","NC",35.308272,-79.492725
+"Nash County","NC",35.965945,-77.987555
+"New Hanover County","NC",34.183445,-77.864204
+"Northampton County","NC",36.421774,-77.398352
+"Onslow County","NC",34.763109,-77.499469
+"Orange County","NC",36.062525,-79.120033
+"Pamlico County","NC",35.147575,-76.665268
+"Pasquotank County","NC",36.265199,-76.260691
+"Pender County","NC",34.512556,-77.888106
+"Perquimans County","NC",36.180897,-76.403244
+"Person County","NC",36.386356,-78.96563
+"Pitt County","NC",35.59249,-77.372739
+"Polk County","NC",35.277901,-82.167621
+"Randolph County","NC",35.709915,-79.806215
+"Richmond County","NC",35.004636,-79.755695
+"Robeson County","NC",34.63921,-79.100881
+"Rockingham County","NC",36.381806,-79.782754
+"Rowan County","NC",35.641355,-80.521721
+"Rutherford County","NC",35.402747,-81.919582
+"Sampson County","NC",34.989298,-78.371261
+"Scotland County","NC",34.840023,-79.477337
+"Stanly County","NC",35.310449,-80.254374
+"Stokes County","NC",36.393797,-80.269921
+"Surry County","NC",36.415416,-80.686463
+"Swain County","NC",35.568849,-83.465614
+"Transylvania County","NC",35.210103,-82.816666
+"Tyrrell County","NC",35.87042,-76.165345
+"Union County","NC",34.99182,-80.530426
+"Vance County","NC",36.365481,-78.405434
+"Wake County","NC",35.789846,-78.650624
+"Warren County","NC",36.398105,-78.099899
+"Washington County","NC",35.844713,-76.572291
+"Watauga County","NC",36.235368,-81.709888
+"Wayne County","NC",35.35419,-78.00867
+"Wilkes County","NC",36.208883,-81.166095
+"Wilson County","NC",35.700357,-77.921598
+"Yadkin County","NC",36.158765,-80.665164
+"Yancey County","NC",35.889326,-82.303954
+"Adams County","ND",46.096815,-102.533198
+"Barnes County","ND",46.94255,-98.070195
+"Benson County","ND",48.071743,-99.351152
+"Billings County","ND",47.007044,-103.364016
+"Bottineau County","ND",48.794412,-100.831257
+"Bowman County","ND",46.110144,-103.505943
+"Burke County","ND",48.786453,-102.520087
+"Burleigh County","ND",46.978829,-100.469533
+"Cass County","ND",46.927003,-97.252375
+"Cavalier County","ND",48.768439,-98.46379
+"Dickey County","ND",46.107756,-98.496518
+"Divide County","ND",48.814754,-103.509326
+"Dunn County","ND",47.354557,-102.612322
+"Eddy County","ND",47.723436,-98.900474
+"Emmons County","ND",46.284255,-100.237842
+"Foster County","ND",47.471431,-98.872876
+"Golden Valley County","ND",46.938924,-103.844612
+"Grand Forks County","ND",47.926003,-97.450851
+"Grant County","ND",46.357827,-101.639049
+"Griggs County","ND",47.456334,-98.232286
+"Hettinger County","ND",46.435704,-102.454238
+"Kidder County","ND",46.938273,-99.731198
+"LaMoure County","ND",46.464195,-98.526057
+"Logan County","ND",46.469278,-99.504585
+"McHenry County","ND",48.233842,-100.633267
+"McIntosh County","ND",46.108682,-99.416487
+"McKenzie County","ND",47.742475,-103.403215
+"McLean County","ND",47.653206,-101.421914
+"Mercer County","ND",47.307147,-101.833328
+"Morton County","ND",46.710819,-101.298265
+"Mountrail County","ND",48.210073,-102.364895
+"Nelson County","ND",47.918667,-98.204428
+"Oliver County","ND",47.118079,-101.33142
+"Pembina County","ND",48.766896,-97.545405
+"Pierce County","ND",48.238883,-99.966497
+"Ramsey County","ND",48.266163,-98.739031
+"Ransom County","ND",46.449276,-97.647554
+"Renville County","ND",48.712781,-101.658152
+"Richland County","ND",46.265219,-96.93796
+"Rolette County","ND",48.768271,-99.840463
+"Sargent County","ND",46.108204,-97.630051
+"Sheridan County","ND",47.581359,-100.330986
+"Sioux County","ND",46.110618,-101.061284
+"Slope County","ND",46.445834,-103.462462
+"Stark County","ND",46.817031,-102.662026
+"Steele County","ND",47.451062,-97.71892
+"Stutsman County","ND",46.972223,-98.956123
+"Towner County","ND",48.682183,-99.248158
+"Traill County","ND",47.446215,-97.164754
+"Walsh County","ND",48.376979,-97.72223
+"Ward County","ND",48.216686,-101.540537
+"Wells County","ND",47.580851,-99.682213
+"Williams County","ND",48.355765,-103.501333
+"Adams County","OH",38.834468,-83.478082
+"Allen County","OH",40.771627,-84.106103
+"Ashland County","OH",40.843273,-82.270127
+"Ashtabula County","OH",41.906637,-80.745592
+"Athens County","OH",39.332755,-82.045885
+"Auglaize County","OH",40.561309,-84.224018
+"Belmont County","OH",40.017682,-80.967727
+"Brown County","OH",38.931377,-83.866772
+"Butler County","OH",39.439747,-84.565734
+"Carroll County","OH",40.579884,-81.090787
+"Champaign County","OH",40.132775,-83.767604
+"Clark County","OH",39.917032,-83.783676
+"Clermont County","OH",39.052054,-84.149485
+"Clinton County","OH",39.416681,-83.804583
+"Columbiana County","OH",40.770073,-80.778455
+"Coshocton County","OH",40.29671,-81.930109
+"Crawford County","OH",40.848524,-82.924783
+"Cuyahoga County","OH",41.555037,-81.604957
+"Darke County","OH",40.131467,-84.621191
+"Defiance County","OH",41.321679,-84.486433
+"Delaware County","OH",40.278941,-83.007462
+"Erie County","OH",41.394143,-82.586835
+"Fairfield County","OH",39.747694,-82.626685
+"Fayette County","OH",39.555246,-83.461893
+"Franklin County","OH",39.969875,-83.009086
+"Fulton County","OH",41.597264,-84.124267
+"Gallia County","OH",38.817046,-82.301746
+"Geauga County","OH",41.499322,-81.173505
+"Greene County","OH",39.687479,-83.894894
+"Guernsey County","OH",40.056665,-81.497875
+"Hamilton County","OH",39.196927,-84.544187
+"Hancock County","OH",41.000217,-83.665947
+"Hardin County","OH",40.660415,-83.664077
+"Harrison County","OH",40.292318,-81.091565
+"Henry County","OH",41.331584,-84.0689
+"Highland County","OH",39.184422,-83.601359
+"Hocking County","OH",39.490342,-82.483447
+"Holmes County","OH",40.565597,-81.930001
+"Huron County","OH",41.14508,-82.594641
+"Jackson County","OH",39.013477,-82.614142
+"Jefferson County","OH",40.399384,-80.763527
+"Knox County","OH",40.40362,-82.422393
+"Lake County","OH",41.778142,-81.19733
+"Lawrence County","OH",38.603866,-82.517186
+"Licking County","OH",40.091505,-82.483435
+"Logan County","OH",40.387553,-83.766343
+"Lorain County","OH",41.438805,-82.179722
+"Lucas County","OH",41.682321,-83.468903
+"Madison County","OH",39.89661,-83.400887
+"Mahoning County","OH",41.01088,-80.770396
+"Marion County","OH",40.588034,-83.168803
+"Medina County","OH",41.116174,-81.899764
+"Meigs County","OH",39.089807,-82.028397
+"Mercer County","OH",40.535333,-84.632059
+"Miami County","OH",40.053326,-84.228413
+"Monroe County","OH",39.726253,-81.090983
+"Montgomery County","OH",39.753736,-84.290591
+"Morgan County","OH",39.624946,-81.861697
+"Morrow County","OH",40.525266,-82.797729
+"Muskingum County","OH",39.966046,-81.943506
+"Noble County","OH",39.767232,-81.452493
+"Ottawa County","OH",41.545495,-83.012613
+"Paulding County","OH",41.118948,-84.582125
+"Perry County","OH",39.743187,-82.237952
+"Pickaway County","OH",39.648947,-83.052827
+"Pike County","OH",39.071341,-83.052911
+"Portage County","OH",41.16897,-81.196962
+"Preble County","OH",39.73881,-84.644758
+"Putnam County","OH",41.024533,-84.129879
+"Richland County","OH",40.774159,-82.542781
+"Ross County","OH",39.323895,-83.059538
+"Sandusky County","OH",41.355319,-83.142776
+"Scioto County","OH",38.814889,-82.998675
+"Seneca County","OH",41.119992,-83.127547
+"Shelby County","OH",40.33668,-84.204142
+"Stark County","OH",40.814131,-81.365667
+"Summit County","OH",41.121847,-81.534928
+"Trumbull County","OH",41.306374,-80.7704
+"Tuscarawas County","OH",40.447439,-81.471166
+"Union County","OH",40.295901,-83.367042
+"Van Wert County","OH",40.85552,-84.585775
+"Vinton County","OH",39.252042,-82.485961
+"Warren County","OH",39.425663,-84.16994
+"Washington County","OH",39.450676,-81.490636
+"Wayne County","OH",40.829661,-81.887194
+"Williams County","OH",41.564959,-84.584324
+"Wood County","OH",41.360183,-83.622682
+"Wyandot County","OH",40.839782,-83.313681
+"Adair County","OK",35.898043,-94.651026
+"Alfalfa County","OK",36.729703,-98.323445
+"Atoka County","OK",34.392469,-96.036558
+"Beaver County","OK",36.748334,-100.483056
+"Beckham County","OK",35.270601,-99.690057
+"Blaine County","OK",35.877795,-98.429031
+"Bryan County","OK",33.964004,-96.265135
+"Caddo County","OK",35.16792,-98.381045
+"Canadian County","OK",35.543354,-97.979889
+"Carter County","OK",34.251848,-97.287927
+"Cherokee County","OK",35.904367,-94.996796
+"Choctaw County","OK",34.027699,-95.554079
+"Cimarron County","OK",36.74839,-102.517698
+"Cleveland County","OK",35.206376,-97.323088
+"Coal County","OK",34.582861,-96.288039
+"Comanche County","OK",34.66263,-98.476612
+"Cotton County","OK",34.290676,-98.373438
+"Craig County","OK",36.76389,-95.201553
+"Creek County","OK",35.907398,-96.380177
+"Custer County","OK",35.645601,-98.997386
+"Delaware County","OK",36.393437,-94.808189
+"Dewey County","OK",35.97796,-99.014385
+"Ellis County","OK",36.224258,-99.750139
+"Garfield County","OK",36.378132,-97.788741
+"Garvin County","OK",34.70935,-97.312723
+"Grady County","OK",35.021058,-97.88689
+"Grant County","OK",36.788254,-97.788151
+"Greer County","OK",34.933853,-99.552968
+"Harmon County","OK",34.745971,-99.844194
+"Harper County","OK",36.80035,-99.662805
+"Haskell County","OK",35.232431,-95.109642
+"Hughes County","OK",35.052934,-96.251183
+"Jackson County","OK",34.594006,-99.412235
+"Jefferson County","OK",34.105082,-97.83889
+"Johnston County","OK",34.313455,-96.654254
+"Kay County","OK",36.814885,-97.143862
+"Kingfisher County","OK",35.949436,-97.934557
+"Kiowa County","OK",34.921489,-98.981617
+"Latimer County","OK",34.875137,-95.272262
+"Le Flore County","OK",34.897356,-94.695074
+"Lincoln County","OK",35.703117,-96.881392
+"Logan County","OK",35.914277,-97.450952
+"Love County","OK",33.957804,-97.245093
+"McClain County","OK",35.016436,-97.449803
+"McCurtain County","OK",34.117073,-94.766086
+"McIntosh County","OK",35.369108,-95.671787
+"Major County","OK",36.313119,-98.542015
+"Marshall County","OK",34.027007,-96.770533
+"Mayes County","OK",36.303804,-95.235638
+"Murray County","OK",34.485766,-97.071557
+"Muskogee County","OK",35.617551,-95.383911
+"Noble County","OK",36.384901,-97.236335
+"Nowata County","OK",36.789615,-95.613312
+"Okfuskee County","OK",35.466804,-96.327762
+"Oklahoma County","OK",35.554611,-97.409401
+"Okmulgee County","OK",35.6435,-95.965947
+"Osage County","OK",36.624299,-96.408112
+"Ottawa County","OK",36.835764,-94.802681
+"Pawnee County","OK",36.313704,-96.696669
+"Payne County","OK",36.079225,-96.975255
+"Pittsburg County","OK",34.92554,-95.74813
+"Pontotoc County","OK",34.721421,-96.691804
+"Pottawatomie County","OK",35.211391,-96.957004
+"Pushmataha County","OK",34.377899,-95.408082
+"Roger Mills County","OK",35.708554,-99.741572
+"Rogers County","OK",36.377794,-95.601383
+"Seminole County","OK",35.158366,-96.602857
+"Sequoyah County","OK",35.502435,-94.750757
+"Stephens County","OK",34.481361,-97.855607
+"Texas County","OK",36.746317,-101.483855
+"Tillman County","OK",34.371085,-98.931701
+"Tulsa County","OK",36.120318,-95.941813
+"Wagoner County","OK",35.963388,-95.514201
+"Washington County","OK",36.704403,-95.906253
+"Washita County","OK",35.290068,-98.992195
+"Woods County","OK",36.726984,-98.863649
+"Woodward County","OK",36.425619,-99.273661
+"Baker County","OR",44.703427,-117.691933
+"Benton County","OR",44.493882,-123.424664
+"Clackamas County","OR",45.160493,-122.195127
+"Clatsop County","OR",46.024509,-123.705037
+"Columbia County","OR",45.941932,-123.081079
+"Coos County","OR",43.18591,-124.094133
+"Crook County","OR",44.163054,-120.371585
+"Curry County","OR",42.466439,-124.210929
+"Deschutes County","OR",43.915118,-121.225575
+"Douglas County","OR",43.286328,-123.154476
+"Gilliam County","OR",45.382955,-120.276246
+"Grant County","OR",44.496326,-119.014057
+"Harney County","OR",43.064449,-118.987169
+"Hood River County","OR",45.511775,-121.655976
+"Jackson County","OR",42.411621,-122.675611
+"Jefferson County","OR",44.645151,-121.178632
+"Josephine County","OR",42.386983,-123.57162
+"Klamath County","OR",42.683761,-121.646168
+"Lake County","OR",42.788401,-120.38979
+"Lane County","OR",43.928334,-122.897581
+"Lincoln County","OR",44.641061,-123.911212
+"Linn County","OR",44.488898,-122.537208
+"Malheur County","OR",43.188625,-117.603191
+"Marion County","OR",44.900898,-122.57626
+"Morrow County","OR",45.425496,-119.602311
+"Multnomah County","OR",45.547711,-122.417363
+"Polk County","OR",44.900372,-123.39864
+"Sherman County","OR",45.399216,-120.678512
+"Tillamook County","OR",45.45589,-123.759299
+"Umatilla County","OR",45.5912,-118.73388
+"Union County","OR",45.304081,-117.999149
+"Wallowa County","OR",45.593753,-117.18558
+"Wasco County","OR",45.164536,-121.165069
+"Washington County","OR",45.553542,-123.097615
+"Wheeler County","OR",44.736415,-120.026861
+"Yamhill County","OR",45.247827,-123.316399
+"Adams County","PA",39.869471,-77.21773
+"Allegheny County","PA",40.469757,-79.980451
+"Armstrong County","PA",40.81238,-79.464129
+"Beaver County","PA",40.68414,-80.350721
+"Bedford County","PA",39.998634,-78.494747
+"Berks County","PA",40.413957,-75.92686
+"Blair County","PA",40.498683,-78.309597
+"Bradford County","PA",41.791504,-76.502123
+"Bucks County","PA",40.336887,-75.10706
+"Butler County","PA",40.913847,-79.918978
+"Cambria County","PA",40.510227,-78.710477
+"Cameron County","PA",41.438291,-78.198323
+"Carbon County","PA",40.918367,-75.705039
+"Centre County","PA",40.909322,-77.847667
+"Chester County","PA",39.974029,-75.749751
+"Clarion County","PA",41.198159,-79.420369
+"Clearfield County","PA",41.006862,-78.477724
+"Clinton County","PA",41.239508,-77.629009
+"Columbia County","PA",41.045517,-76.40426
+"Crawford County","PA",41.687876,-80.107795
+"Cumberland County","PA",40.164805,-77.263442
+"Dauphin County","PA",40.412565,-76.792634
+"Delaware County","PA",39.916685,-75.398818
+"Elk County","PA",41.427332,-78.653937
+"Erie County","PA",42.117952,-80.096386
+"Fayette County","PA",39.918907,-79.640119
+"Forest County","PA",41.513304,-79.249705
+"Franklin County","PA",39.926772,-77.724521
+"Fulton County","PA",39.91075,-78.122617
+"Greene County","PA",39.847707,-80.225655
+"Huntingdon County","PA",40.422311,-77.968595
+"Indiana County","PA",40.651432,-79.087545
+"Jefferson County","PA",41.138028,-79.012419
+"Juniata County","PA",40.530673,-77.400438
+"Lackawanna County","PA",41.436636,-75.608768
+"Lancaster County","PA",40.041992,-76.250198
+"Lawrence County","PA",40.992735,-80.334446
+"Lebanon County","PA",40.371448,-76.464819
+"Lehigh County","PA",40.614241,-75.590627
+"Luzerne County","PA",41.173078,-75.976053
+"Lycoming County","PA",41.343882,-77.055262
+"McKean County","PA",41.81459,-78.572463
+"Mercer County","PA",41.300014,-80.252786
+"Mifflin County","PA",40.601615,-77.651832
+"Monroe County","PA",41.05624,-75.329065
+"Montgomery County","PA",40.209999,-75.370201
+"Montour County","PA",41.029284,-76.665225
+"Northampton County","PA",40.752791,-75.307447
+"Northumberland County","PA",40.851524,-76.709877
+"Perry County","PA",40.39778,-77.266328
+"Philadelphia County","PA",40.009376,-75.133346
+"Pike County","PA",41.325949,-75.031514
+"Potter County","PA",41.748587,-77.894436
+"Schuylkill County","PA",40.703682,-76.217788
+"Snyder County","PA",40.755407,-77.072929
+"Somerset County","PA",39.981297,-79.028486
+"Sullivan County","PA",41.439285,-76.511717
+"Susquehanna County","PA",41.819665,-75.800969
+"Tioga County","PA",41.766859,-77.257288
+"Union County","PA",40.962179,-77.055475
+"Venango County","PA",41.400714,-79.765813
+"Warren County","PA",41.834298,-79.298182
+"Washington County","PA",40.200005,-80.252132
+"Wayne County","PA",41.646602,-75.292493
+"Westmoreland County","PA",40.311068,-79.466688
+"Wyoming County","PA",41.525173,-76.008731
+"York County","PA",39.921751,-76.728889
+"Bristol County","RI",41.70684,-71.286687
+"Kent County","RI",41.675118,-71.580282
+"Newport County","RI",41.501045,-71.283063
+"Providence County","RI",41.869768,-71.578625
+"Washington County","RI",41.396792,-71.620282
+"Abbeville County","SC",34.229041,-82.454058
+"Aiken County","SC",33.550013,-81.632983
+"Allendale County","SC",32.979757,-81.363265
+"Anderson County","SC",34.521235,-82.638603
+"Bamberg County","SC",33.203021,-81.053161
+"Barnwell County","SC",33.260552,-81.434228
+"Beaufort County","SC",32.358112,-80.689422
+"Berkeley County","SC",33.2077,-79.953655
+"Calhoun County","SC",33.67478,-80.780347
+"Charleston County","SC",32.800458,-79.94248
+"Cherokee County","SC",35.049796,-81.607647
+"Chester County","SC",34.689342,-81.161249
+"Chesterfield County","SC",34.637018,-80.159227
+"Clarendon County","SC",33.664682,-80.217889
+"Colleton County","SC",32.835018,-80.655244
+"Darlington County","SC",34.332185,-79.962115
+"Dillon County","SC",34.390209,-79.375294
+"Dorchester County","SC",33.082186,-80.404697
+"Edgefield County","SC",33.776498,-81.968245
+"Fairfield County","SC",34.395669,-81.127001
+"Florence County","SC",34.028535,-79.710233
+"Georgetown County","SC",33.417531,-79.296333
+"Greenville County","SC",34.892645,-82.372077
+"Greenwood County","SC",34.155796,-82.127876
+"Hampton County","SC",32.778334,-81.143822
+"Horry County","SC",33.909269,-78.976675
+"Jasper County","SC",32.43059,-81.021627
+"Kershaw County","SC",34.338356,-80.590885
+"Lancaster County","SC",34.686818,-80.703688
+"Laurens County","SC",34.483676,-82.005498
+"Lee County","SC",34.15864,-80.251209
+"Lexington County","SC",33.899246,-81.266118
+"McCormick County","SC",33.897599,-82.316196
+"Marion County","SC",34.08362,-79.354001
+"Marlboro County","SC",34.60167,-79.679435
+"Newberry County","SC",34.289881,-81.599676
+"Oconee County","SC",34.748766,-83.06154
+"Orangeburg County","SC",33.436135,-80.802913
+"Pickens County","SC",34.885368,-82.723377
+"Richland County","SC",34.029095,-80.898037
+"Saluda County","SC",34.005278,-81.727903
+"Spartanburg County","SC",34.932014,-81.991624
+"Sumter County","SC",33.91614,-80.382376
+"Union County","SC",34.690397,-81.615896
+"Williamsburg County","SC",33.626462,-79.716474
+"York County","SC",34.970188,-81.183187
+"Aurora County","SD",43.724719,-98.577587
+"Beadle County","SD",44.418265,-98.279422
+"Bennett County","SD",43.186912,-101.677181
+"Bon Homme County","SD",42.985799,-97.884199
+"Brookings County","SD",44.376675,-96.797797
+"Brown County","SD",45.589254,-98.352175
+"Brule County","SD",43.729873,-99.092909
+"Buffalo County","SD",44.044306,-99.203998
+"Butte County","SD",44.896226,-103.501436
+"Campbell County","SD",45.785575,-100.002107
+"Charles Mix County","SD",43.206185,-98.595143
+"Clark County","SD",44.855211,-97.724912
+"Clay County","SD",42.91615,-96.980468
+"Codington County","SD",44.966285,-97.198837
+"Corson County","SD",45.685671,-101.179665
+"Custer County","SD",43.684943,-103.46225
+"Davison County","SD",43.680439,-98.155868
+"Day County","SD",45.355161,-97.58143
+"Deuel County","SD",44.75629,-96.690239
+"Dewey County","SD",45.148049,-100.837953
+"Douglas County","SD",43.391506,-98.358433
+"Edmunds County","SD",45.41168,-99.205362
+"Fall River County","SD",43.221619,-103.512609
+"Faulk County","SD",45.065476,-99.153564
+"Grant County","SD",45.172637,-96.772261
+"Gregory County","SD",43.175142,-99.206591
+"Haakon County","SD",44.288097,-101.540856
+"Hamlin County","SD",44.680619,-97.178598
+"Hand County","SD",44.546713,-99.004575
+"Hanson County","SD",43.680612,-97.796845
+"Harding County","SD",45.596611,-103.473871
+"Hughes County","SD",44.384452,-99.975684
+"Hutchinson County","SD",43.33671,-97.749383
+"Hyde County","SD",44.537174,-99.472736
+"Jackson County","SD",43.677506,-101.626323
+"Jerauld County","SD",44.06341,-98.62317
+"Jones County","SD",43.951991,-100.686138
+"Kingsbury County","SD",44.362969,-97.499313
+"Lake County","SD",44.02845,-97.123223
+"Lawrence County","SD",44.348514,-103.806362
+"Lincoln County","SD",43.27942,-96.722286
+"Lyman County","SD",43.894812,-99.841925
+"McCook County","SD",43.680416,-97.358048
+"McPherson County","SD",45.784249,-99.211421
+"Marshall County","SD",45.737044,-97.58087
+"Meade County","SD",44.605282,-102.714169
+"Mellette County","SD",43.581334,-100.75521
+"Miner County","SD",44.021541,-97.608122
+"Minnehaha County","SD",43.667472,-96.795726
+"Moody County","SD",44.012429,-96.676054
+"Oglala Lakota County","SD",43.333393,-102.561486
+"Pennington County","SD",44.002349,-102.823801
+"Perkins County","SD",45.483387,-102.467995
+"Potter County","SD",45.052713,-99.962003
+"Roberts County","SD",45.623397,-96.947551
+"Sanborn County","SD",44.018942,-98.091709
+"Spink County","SD",44.923772,-98.339615
+"Stanley County","SD",44.413984,-100.747822
+"Sully County","SD",44.722325,-100.131399
+"Todd County","SD",43.208794,-100.707664
+"Tripp County","SD",43.349729,-99.876219
+"Turner County","SD",43.30867,-97.150185
+"Union County","SD",42.831106,-96.650829
+"Walworth County","SD",45.427605,-100.027856
+"Yankton County","SD",43.006603,-97.388361
+"Ziebach County","SD",44.989764,-101.660827
+"Anderson County","TN",36.116731,-84.195418
+"Bedford County","TN",35.51366,-86.458294
+"Benton County","TN",36.070948,-88.071232
+"Bledsoe County","TN",35.593561,-85.20591
+"Blount County","TN",35.688185,-83.922973
+"Bradley County","TN",35.153914,-84.859414
+"Campbell County","TN",36.401592,-84.159249
+"Cannon County","TN",35.808394,-86.062404
+"Carroll County","TN",35.965748,-88.452379
+"Carter County","TN",36.284744,-82.126593
+"Cheatham County","TN",36.255169,-87.100808
+"Chester County","TN",35.420253,-88.611353
+"Claiborne County","TN",36.501572,-83.660698
+"Clay County","TN",36.545749,-85.545717
+"Cocke County","TN",35.916198,-83.119224
+"Coffee County","TN",35.488765,-86.078202
+"Crockett County","TN",35.818795,-89.132494
+"Cumberland County","TN",35.952398,-84.994761
+"Davidson County","TN",36.169129,-86.78479
+"Decatur County","TN",35.603136,-88.110292
+"DeKalb County","TN",35.982219,-85.833596
+"Dickson County","TN",36.145533,-87.364155
+"Dyer County","TN",36.054196,-89.398306
+"Fayette County","TN",35.196993,-89.413803
+"Fentress County","TN",36.369892,-84.937764
+"Franklin County","TN",35.155926,-86.099203
+"Gibson County","TN",35.991632,-88.933812
+"Giles County","TN",35.202723,-87.035319
+"Grainger County","TN",36.277509,-83.509546
+"Greene County","TN",36.179487,-82.847523
+"Grundy County","TN",35.393352,-85.710374
+"Hamblen County","TN",36.218397,-83.266071
+"Hamilton County","TN",35.163472,-85.201843
+"Hancock County","TN",36.521353,-83.227493
+"Hardeman County","TN",35.218785,-88.988697
+"Hardin County","TN",35.201893,-88.185696
+"Hawkins County","TN",36.452089,-82.931485
+"Haywood County","TN",35.586678,-89.282691
+"Henderson County","TN",35.653994,-88.387674
+"Henry County","TN",36.325295,-88.300288
+"Hickman County","TN",35.802327,-87.467116
+"Houston County","TN",36.285782,-87.705598
+"Humphreys County","TN",36.040822,-87.790453
+"Jackson County","TN",36.35425,-85.674128
+"Jefferson County","TN",36.048452,-83.441216
+"Johnson County","TN",36.453203,-81.861247
+"Knox County","TN",35.992726,-83.937721
+"Lake County","TN",36.333905,-89.485536
+"Lauderdale County","TN",35.762951,-89.627732
+"Lawrence County","TN",35.220476,-87.396546
+"Lewis County","TN",35.523244,-87.496983
+"Lincoln County","TN",35.142784,-86.593403
+"Loudon County","TN",35.735085,-84.314085
+"McMinn County","TN",35.424472,-84.619949
+"McNairy County","TN",35.175375,-88.56374
+"Macon County","TN",36.537757,-86.00096
+"Madison County","TN",35.606056,-88.833424
+"Marion County","TN",35.133422,-85.618399
+"Marshall County","TN",35.468329,-86.765868
+"Maury County","TN",35.615696,-87.077763
+"Meigs County","TN",35.512203,-84.816102
+"Monroe County","TN",35.447818,-84.249705
+"Montgomery County","TN",36.500354,-87.380887
+"Moore County","TN",35.288888,-86.358684
+"Morgan County","TN",36.138697,-84.639262
+"Obion County","TN",36.361892,-89.148078
+"Overton County","TN",36.34485,-85.283076
+"Perry County","TN",35.663752,-87.869326
+"Pickett County","TN",36.559364,-85.075741
+"Polk County","TN",35.109437,-84.541112
+"Putnam County","TN",36.14094,-85.49618
+"Rhea County","TN",35.60059,-84.949548
+"Roane County","TN",35.84725,-84.523929
+"Robertson County","TN",36.527509,-86.869354
+"Rutherford County","TN",35.843369,-86.417213
+"Scott County","TN",36.430592,-84.504091
+"Sequatchie County","TN",35.372336,-85.410082
+"Sevier County","TN",35.787822,-83.5249
+"Shelby County","TN",35.184553,-89.894612
+"Smith County","TN",36.256645,-85.941915
+"Stewart County","TN",36.458464,-87.811889
+"Sullivan County","TN",36.509681,-82.301336
+"Sumner County","TN",36.472423,-86.458405
+"Tipton County","TN",35.498763,-89.747145
+"Trousdale County","TN",36.39303,-86.156691
+"Unicoi County","TN",36.100129,-82.418218
+"Union County","TN",36.28414,-83.836088
+"Van Buren County","TN",35.699234,-85.458409
+"Warren County","TN",35.67825,-85.777343
+"Washington County","TN",36.295665,-82.495037
+"Wayne County","TN",35.242847,-87.819843
+"Weakley County","TN",36.303596,-88.721194
+"White County","TN",35.927049,-85.455785
+"Williamson County","TN",35.894845,-86.897888
+"Wilson County","TN",36.149431,-86.291181
+"Anderson County","TX",31.841261,-95.661727
+"Andrews County","TX",32.312258,-102.640206
+"Angelina County","TX",31.251896,-94.611134
+"Aransas County","TX",28.122621,-96.967501
+"Archer County","TX",33.616305,-98.687267
+"Armstrong County","TX",34.964179,-101.356636
+"Atascosa County","TX",28.891478,-98.535381
+"Austin County","TX",29.891901,-96.27017
+"Bailey County","TX",34.067521,-102.830345
+"Bandera County","TX",29.756389,-99.248285
+"Bastrop County","TX",30.100772,-97.310639
+"Baylor County","TX",33.618802,-99.208189
+"Bee County","TX",28.416077,-97.742586
+"Bell County","TX",31.04275,-97.481268
+"Bexar County","TX",29.448671,-98.520147
+"Blanco County","TX",30.266456,-98.399217
+"Borden County","TX",32.73859,-101.439199
+"Bosque County","TX",31.900819,-97.637641
+"Bowie County","TX",33.446065,-94.422393
+"Brazoria County","TX",29.167817,-95.434647
+"Brazos County","TX",30.656713,-96.302394
+"Brewster County","TX",29.808997,-103.252458
+"Briscoe County","TX",34.525172,-101.205893
+"Brooks County","TX",27.034994,-98.215276
+"Brown County","TX",31.764137,-98.998456
+"Burleson County","TX",30.493487,-96.622091
+"Burnet County","TX",30.78963,-98.201187
+"Caldwell County","TX",29.832399,-97.628141
+"Calhoun County","TX",28.441719,-96.579574
+"Callahan County","TX",32.29315,-99.372249
+"Cameron County","TX",26.102923,-97.478958
+"Camp County","TX",32.974581,-94.979085
+"Carson County","TX",35.405496,-101.355356
+"Cass County","TX",33.083698,-94.357579
+"Castro County","TX",34.533621,-102.258786
+"Chambers County","TX",29.696374,-94.669445
+"Cherokee County","TX",31.843881,-95.156343
+"Childress County","TX",34.524624,-100.208166
+"Clay County","TX",33.785904,-98.212917
+"Cochran County","TX",33.60844,-102.830449
+"Coke County","TX",31.87711,-100.635231
+"Coleman County","TX",31.914205,-99.346622
+"Collin County","TX",33.194494,-96.579428
+"Collingsworth County","TX",34.963358,-100.272135
+"Colorado County","TX",29.596296,-96.508935
+"Comal County","TX",29.812377,-98.258129
+"Comanche County","TX",31.951645,-98.549617
+"Concho County","TX",31.318883,-99.863649
+"Cooke County","TX",33.639196,-97.210343
+"Coryell County","TX",31.391177,-97.798022
+"Cottle County","TX",34.091906,-100.276442
+"Crane County","TX",31.422796,-102.487774
+"Crockett County","TX",30.717532,-101.404211
+"Crosby County","TX",33.609144,-101.29871
+"Culberson County","TX",31.445908,-104.526945
+"Dallam County","TX",36.28637,-102.59402
+"Dallas County","TX",32.766987,-96.778424
+"Dawson County","TX",32.742528,-101.948771
+"Deaf Smith County","TX",34.940766,-102.607564
+"Delta County","TX",33.385933,-95.67335
+"Denton County","TX",33.205132,-97.12114
+"DeWitt County","TX",29.082346,-97.361654
+"Dickens County","TX",33.615363,-100.787617
+"Dimmit County","TX",28.423587,-99.765871
+"Donley County","TX",34.955036,-100.815846
+"Duval County","TX",27.681123,-98.497393
+"Eastland County","TX",32.324645,-98.83656
+"Ector County","TX",31.865301,-102.542507
+"Edwards County","TX",29.985933,-100.3074
+"Ellis County","TX",32.346878,-96.79694
+"El Paso County","TX",31.76648,-106.241423
+"Erath County","TX",32.236669,-98.220545
+"Falls County","TX",31.25193,-96.934127
+"Fannin County","TX",33.591161,-96.104988
+"Fayette County","TX",29.877886,-96.921231
+"Fisher County","TX",32.740473,-100.40312
+"Floyd County","TX",34.07373,-101.303274
+"Foard County","TX",33.963306,-99.816828
+"Fort Bend County","TX",29.526602,-95.771015
+"Franklin County","TX",33.175846,-95.219066
+"Freestone County","TX",31.701749,-96.144957
+"Frio County","TX",28.869383,-99.109005
+"Gaines County","TX",32.743942,-102.631561
+"Galveston County","TX",29.233453,-94.888456
+"Garza County","TX",33.183792,-101.301134
+"Gillespie County","TX",30.325093,-98.94185
+"Glasscock County","TX",31.868006,-101.521494
+"Goliad County","TX",28.6607,-97.430415
+"Gonzales County","TX",29.461912,-97.49192
+"Gray County","TX",35.402542,-100.812374
+"Grayson County","TX",33.624524,-96.675693
+"Gregg County","TX",32.486401,-94.816277
+"Grimes County","TX",30.543231,-95.988082
+"Guadalupe County","TX",29.582671,-97.948995
+"Hale County","TX",34.068436,-101.822888
+"Hall County","TX",34.453189,-100.576343
+"Hamilton County","TX",31.707342,-98.111756
+"Hansford County","TX",36.272847,-101.35693
+"Hardeman County","TX",34.289904,-99.745697
+"Hardin County","TX",30.329648,-94.393178
+"Harris County","TX",29.857273,-95.393037
+"Harrison County","TX",32.547991,-94.374434
+"Hartley County","TX",35.840244,-102.610047
+"Haskell County","TX",33.175964,-99.730774
+"Hays County","TX",30.061225,-98.029267
+"Hemphill County","TX",35.815956,-100.27921
+"Henderson County","TX",32.211633,-95.853418
+"Hidalgo County","TX",26.396384,-98.18099
+"Hill County","TX",31.982681,-97.130668
+"Hockley County","TX",33.605932,-102.343398
+"Hood County","TX",32.430149,-97.831677
+"Hopkins County","TX",33.148967,-95.565434
+"Houston County","TX",31.323036,-95.4216
+"Howard County","TX",32.30343,-101.438721
+"Hudspeth County","TX",31.450868,-105.377549
+"Hunt County","TX",33.123308,-96.08423
+"Hutchinson County","TX",35.837047,-101.362746
+"Irion County","TX",31.303424,-100.981304
+"Jack County","TX",33.23216,-98.171177
+"Jackson County","TX",28.959802,-96.58908
+"Jasper County","TX",30.752932,-94.022294
+"Jeff Davis County","TX",30.625357,-104.191873
+"Jefferson County","TX",29.854,-94.149331
+"Jim Hogg County","TX",27.053231,-98.747572
+"Jim Wells County","TX",27.733516,-98.090814
+"Johnson County","TX",32.379654,-97.364906
+"Jones County","TX",32.743709,-99.87443
+"Karnes County","TX",28.908996,-97.852205
+"Kaufman County","TX",32.598944,-96.288377
+"Kendall County","TX",29.943525,-98.709269
+"Kenedy County","TX",26.890213,-97.591143
+"Kent County","TX",33.18478,-100.76972
+"Kerr County","TX",30.059953,-99.353339
+"Kimble County","TX",30.479472,-99.746396
+"King County","TX",33.614268,-100.245345
+"Kinney County","TX",29.347086,-100.4177
+"Kleberg County","TX",27.438735,-97.66062
+"Knox County","TX",33.61189,-99.730356
+"Lamar County","TX",33.667263,-95.570348
+"Lamb County","TX",34.068861,-102.348018
+"Lampasas County","TX",31.196731,-98.240889
+"La Salle County","TX",28.351098,-99.096774
+"Lavaca County","TX",29.382578,-96.923633
+"Lee County","TX",30.321498,-96.976823
+"Leon County","TX",31.300493,-95.995622
+"Liberty County","TX",30.158508,-94.844061
+"Limestone County","TX",31.547543,-96.593623
+"Lipscomb County","TX",36.2802,-100.272683
+"Live Oak County","TX",28.351535,-98.126961
+"Llano County","TX",30.707584,-98.68469
+"Loving County","TX",31.844936,-103.561229
+"Lubbock County","TX",33.611469,-101.819944
+"Lynn County","TX",33.178412,-101.818493
+"McCulloch County","TX",31.205477,-99.359856
+"McLennan County","TX",31.549596,-97.201511
+"McMullen County","TX",28.384922,-98.578853
+"Madison County","TX",30.966878,-95.930372
+"Marion County","TX",32.798182,-94.356853
+"Martin County","TX",32.30983,-101.961836
+"Mason County","TX",30.703916,-99.237302
+"Matagorda County","TX",28.77476,-96.001532
+"Maverick County","TX",28.729787,-100.316678
+"Medina County","TX",29.353661,-99.111085
+"Menard County","TX",30.885268,-99.858861
+"Midland County","TX",31.814269,-102.002454
+"Milam County","TX",30.791242,-96.984395
+"Mills County","TX",31.494888,-98.594623
+"Mitchell County","TX",32.304117,-100.924392
+"Montague County","TX",33.678356,-97.725014
+"Montgomery County","TX",30.298801,-95.50295
+"Moore County","TX",35.835676,-101.890502
+"Morris County","TX",33.116466,-94.731265
+"Motley County","TX",34.057899,-100.793152
+"Nacogdoches County","TX",31.62056,-94.62025
+"Navarro County","TX",32.048448,-96.476909
+"Newton County","TX",30.786718,-93.73925
+"Nolan County","TX",32.312338,-100.418108
+"Nueces County","TX",27.740032,-97.516214
+"Ochiltree County","TX",36.278744,-100.815864
+"Oldham County","TX",35.401921,-102.59762
+"Orange County","TX",30.122323,-93.8941
+"Palo Pinto County","TX",32.752204,-98.317967
+"Panola County","TX",32.163978,-94.305156
+"Parker County","TX",32.777096,-97.805905
+"Parmer County","TX",34.532163,-102.784853
+"Pecos County","TX",30.773298,-102.718153
+"Polk County","TX",30.784553,-94.837338
+"Potter County","TX",35.398675,-101.893804
+"Presidio County","TX",30.005891,-104.261619
+"Rains County","TX",32.870457,-95.795613
+"Randall County","TX",34.962529,-101.895547
+"Reagan County","TX",31.375191,-101.514395
+"Real County","TX",29.830097,-99.812549
+"Red River County","TX",33.619625,-95.048429
+"Reeves County","TX",31.308366,-103.712706
+"Refugio County","TX",28.322116,-97.162472
+"Roberts County","TX",35.838596,-100.836682
+"Robertson County","TX",31.025481,-96.514941
+"Rockwall County","TX",32.899886,-96.41205
+"Runnels County","TX",31.845119,-99.982715
+"Rusk County","TX",32.109423,-94.756382
+"Sabine County","TX",31.3433,-93.851913
+"San Augustine County","TX",31.382449,-94.16318
+"San Jacinto County","TX",30.574388,-95.163136
+"San Patricio County","TX",28.011794,-97.517157
+"San Saba County","TX",31.155138,-98.819292
+"Schleicher County","TX",30.896233,-100.527216
+"Scurry County","TX",32.744353,-100.913346
+"Shackelford County","TX",32.74382,-99.347005
+"Shelby County","TX",31.790139,-94.142579
+"Sherman County","TX",36.278593,-101.899265
+"Smith County","TX",32.375105,-95.268939
+"Somervell County","TX",32.218071,-97.769217
+"Starr County","TX",26.530903,-98.740235
+"Stephens County","TX",32.738052,-98.839344
+"Sterling County","TX",31.835773,-101.054911
+"Stonewall County","TX",33.17958,-100.253807
+"Sutton County","TX",30.522185,-100.513359
+"Swisher County","TX",34.526319,-101.743865
+"Tarrant County","TX",32.772119,-97.291224
+"Taylor County","TX",32.297126,-99.89043
+"Terrell County","TX",30.232343,-102.072513
+"Terry County","TX",33.171229,-102.339284
+"Throckmorton County","TX",33.170695,-99.205796
+"Titus County","TX",33.214599,-94.966783
+"Tom Green County","TX",31.398295,-100.46385
+"Travis County","TX",30.239513,-97.69127
+"Trinity County","TX",31.096675,-95.151687
+"Tyler County","TX",30.769295,-94.375656
+"Upshur County","TX",32.735349,-94.941184
+"Upton County","TX",31.353816,-102.041546
+"Uvalde County","TX",29.350308,-99.768427
+"Val Verde County","TX",29.875285,-101.143324
+"Van Zandt County","TX",32.558787,-95.836906
+"Victoria County","TX",28.79637,-96.971198
+"Walker County","TX",30.743163,-95.569825
+"Waller County","TX",30.01359,-95.982149
+"Ward County","TX",31.513069,-103.105113
+"Washington County","TX",30.215075,-96.410272
+"Webb County","TX",27.760799,-99.340752
+"Wharton County","TX",29.27848,-96.229674
+"Wheeler County","TX",35.392593,-100.253107
+"Wichita County","TX",33.988212,-98.70801
+"Wilbarger County","TX",34.08492,-99.24244
+"Willacy County","TX",26.481861,-97.594731
+"Williamson County","TX",30.649082,-97.605065
+"Wilson County","TX",29.173883,-98.086734
+"Winkler County","TX",31.832862,-103.054925
+"Wise County","TX",33.219095,-97.653997
+"Wood County","TX",32.783588,-95.382166
+"Yoakum County","TX",33.162339,-102.832241
+"Young County","TX",33.158778,-98.67839
+"Zapata County","TX",26.996981,-99.182603
+"Zavala County","TX",28.864652,-99.75983
+"Beaver County","UT",38.357535,-113.238948
+"Box Elder County","UT",41.622623,-113.060252
+"Cache County","UT",41.734118,-111.745394
+"Carbon County","UT",39.673284,-110.588484
+"Daggett County","UT",40.890099,-109.505785
+"Davis County","UT",41.037559,-112.201943
+"Duchesne County","UT",40.289393,-110.429584
+"Emery County","UT",39.009025,-110.7211
+"Garfield County","UT",37.831663,-111.450907
+"Grand County","UT",38.974326,-109.57345
+"Iron County","UT",37.909304,-113.30674
+"Juab County","UT",39.71412,-112.790471
+"Kane County","UT",37.275089,-111.815329
+"Millard County","UT",38.956744,-113.133092
+"Morgan County","UT",41.091027,-111.577885
+"Piute County","UT",38.335881,-112.129375
+"Rich County","UT",41.627598,-111.240227
+"Salt Lake County","UT",40.667883,-111.92424
+"San Juan County","UT",37.602633,-109.791574
+"Sanpete County","UT",39.373426,-111.576933
+"Sevier County","UT",38.746824,-111.81193
+"Summit County","UT",40.87206,-110.968486
+"Tooele County","UT",40.467753,-113.123979
+"Uintah County","UT",40.125887,-109.517748
+"Utah County","UT",40.120418,-111.668563
+"Wasatch County","UT",40.334884,-111.161568
+"Washington County","UT",37.262531,-113.4878
+"Wayne County","UT",38.259856,-110.990872
+"Weber County","UT",41.270325,-111.876883
+"Addison County","VT",44.031248,-73.141581
+"Bennington County","VT",43.035328,-73.111496
+"Caledonia County","VT",44.468791,-72.112168
+"Chittenden County","VT",44.463329,-73.06941
+"Essex County","VT",44.724021,-71.732736
+"Franklin County","VT",44.858964,-72.909402
+"Grand Isle County","VT",44.801787,-73.300759
+"Lamoille County","VT",44.611192,-72.632659
+"Orange County","VT",44.003373,-72.369579
+"Orleans County","VT",44.828442,-72.25163
+"Rutland County","VT",43.612399,-73.060304
+"Washington County","VT",44.274969,-72.609444
+"Windham County","VT",42.995304,-72.721877
+"Windsor County","VT",43.572448,-72.598813
+"Accomack County","VA",37.765944,-75.757807
+"Albemarle County","VA",38.024184,-78.553506
+"Alleghany County","VA",37.787905,-80.008669
+"Amelia County","VA",37.331927,-77.977462
+"Amherst County","VA",37.629304,-79.154667
+"Appomattox County","VA",37.370725,-78.81094
+"Arlington County","VA",38.878337,-77.100703
+"Augusta County","VA",38.17259,-79.140975
+"Bath County","VA",38.068368,-79.731203
+"Bedford County","VA",37.312257,-79.527223
+"Bland County","VA",37.130612,-81.125853
+"Botetourt County","VA",37.565482,-79.797546
+"Brunswick County","VA",36.764204,-77.861483
+"Buchanan County","VA",37.26812,-82.038151
+"Buckingham County","VA",37.573928,-78.529169
+"Campbell County","VA",37.210152,-79.095428
+"Caroline County","VA",38.028033,-77.353736
+"Carroll County","VA",36.731963,-80.727831
+"Charles City County","VA",37.361054,-77.05417
+"Charlotte County","VA",37.009042,-78.658568
+"Chesterfield County","VA",37.378434,-77.585847
+"Clarke County","VA",39.115307,-77.990748
+"Craig County","VA",37.473603,-80.231051
+"Culpeper County","VA",38.48593,-77.956476
+"Cumberland County","VA",37.520189,-78.252836
+"Dickenson County","VA",37.136701,-82.34922
+"Dinwiddie County","VA",37.073498,-77.635492
+"Essex County","VA",37.936389,-76.933747
+"Fairfax County","VA",38.82952,-77.273252
+"Fauquier County","VA",38.744096,-77.8215
+"Floyd County","VA",36.931433,-80.350266
+"Fluvanna County","VA",37.830584,-78.283494
+"Franklin County","VA",36.991186,-79.882715
+"Frederick County","VA",39.20366,-78.263829
+"Giles County","VA",37.318072,-80.698321
+"Gloucester County","VA",37.403541,-76.523505
+"Goochland County","VA",37.718814,-77.917626
+"Grayson County","VA",36.652229,-81.215324
+"Greene County","VA",38.297981,-78.470163
+"Greensville County","VA",36.680336,-77.560277
+"Halifax County","VA",36.766461,-78.939614
+"Hanover County","VA",37.760215,-77.491317
+"Henrico County","VA",37.43752,-77.300333
+"Henry County","VA",36.620612,-79.980662
+"Highland County","VA",38.366243,-79.564472
+"Isle of Wight County","VA",36.901418,-76.707569
+"James City County","VA",37.324837,-76.777888
+"King and Queen County","VA",37.717772,-76.905581
+"King George County","VA",38.27718,-77.162636
+"King William County","VA",37.70826,-77.091054
+"Lancaster County","VA",37.704843,-76.412663
+"Lee County","VA",36.701721,-83.130112
+"Loudoun County","VA",39.0812,-77.638898
+"Louisa County","VA",37.972704,-77.959795
+"Lunenburg County","VA",36.945555,-78.240528
+"Madison County","VA",38.412059,-78.276961
+"Mathews County","VA",37.425348,-76.268808
+"Mecklenburg County","VA",36.687256,-78.368959
+"Middlesex County","VA",37.606975,-76.528082
+"Montgomery County","VA",37.175538,-80.387794
+"Nelson County","VA",37.789079,-78.88344
+"New Kent County","VA",37.51016,-76.999331
+"Northampton County","VA",37.302775,-75.924018
+"Northumberland County","VA",37.856974,-76.379687
+"Nottoway County","VA",37.141167,-78.053866
+"Orange County","VA",38.249326,-78.011092
+"Page County","VA",38.623209,-78.491872
+"Patrick County","VA",36.667138,-80.286413
+"Pittsylvania County","VA",36.821721,-79.398502
+"Powhatan County","VA",37.549404,-77.912855
+"Prince Edward County","VA",37.224881,-78.432957
+"Prince George County","VA",37.187325,-77.220993
+"Prince William County","VA",38.701119,-77.479579
+"Pulaski County","VA",37.063385,-80.713444
+"Rappahannock County","VA",38.684522,-78.168824
+"Richmond County","VA",37.942894,-76.730561
+"Roanoke County","VA",37.330792,-80.191237
+"Rockbridge County","VA",37.814517,-79.447754
+"Rockingham County","VA",38.507585,-78.885321
+"Russell County","VA",36.93342,-82.095934
+"Scott County","VA",36.712776,-82.613624
+"Shenandoah County","VA",38.856204,-78.573987
+"Smyth County","VA",36.842318,-81.539786
+"Southampton County","VA",36.720068,-77.103813
+"Spotsylvania County","VA",38.182431,-77.657226
+"Stafford County","VA",38.423084,-77.458048
+"Surry County","VA",37.119761,-76.880172
+"Sussex County","VA",36.926645,-77.259732
+"Tazewell County","VA",37.125395,-81.562924
+"Warren County","VA",38.908221,-78.207594
+"Washington County","VA",36.747814,-81.950322
+"Westmoreland County","VA",38.109311,-76.803933
+"Wise County","VA",36.974561,-82.62156
+"Wythe County","VA",36.899868,-81.08301
+"York County","VA",37.220914,-76.395533
+"Alexandria city","VA",38.819251,-77.08367
+"Bristol city","VA",36.616954,-82.157564
+"Buena Vista city","VA",37.729345,-79.358134
+"Charlottesville city","VA",38.037658,-78.485381
+"Chesapeake city","VA",36.679376,-76.301788
+"Colonial Heights city","VA",37.261685,-77.396804
+"Covington city","VA",37.78106,-79.985434
+"Danville city","VA",36.583334,-79.408071
+"Emporia city","VA",36.696182,-77.535975
+"Fairfax city","VA",38.853183,-77.299025
+"Falls Church city","VA",38.884722,-77.175603
+"Franklin city","VA",36.684014,-76.941396
+"Fredericksburg city","VA",38.299272,-77.486658
+"Galax city","VA",36.66564,-80.914308
+"Hampton city","VA",37.047961,-76.297293
+"Harrisonburg city","VA",38.436255,-78.873303
+"Hopewell city","VA",37.29101,-77.298944
+"Lexington city","VA",37.782332,-79.44432
+"Lynchburg city","VA",37.399016,-79.195458
+"Manassas city","VA",38.746808,-77.482633
+"Manassas Park city","VA",38.769398,-77.442323
+"Martinsville city","VA",36.683527,-79.863647
+"Newport News city","VA",37.076136,-76.52198
+"Norfolk city","VA",36.923015,-76.244641
+"Norton city","VA",36.931549,-82.625996
+"Petersburg city","VA",37.20473,-77.392368
+"Poquoson city","VA",37.12836,-76.303534
+"Portsmouth city","VA",36.859339,-76.356973
+"Radford city","VA",37.120119,-80.559147
+"Richmond city","VA",37.531399,-77.476009
+"Roanoke city","VA",37.278458,-79.958174
+"Salem city","VA",37.285333,-80.055241
+"Staunton city","VA",38.157978,-79.061876
+"Suffolk city","VA",36.697157,-76.634781
+"Virginia Beach city","VA",36.779525,-76.029142
+"Waynesboro city","VA",38.067157,-78.90142
+"Williamsburg city","VA",37.269481,-76.708193
+"Winchester city","VA",39.173869,-78.176356
+"Adams County","WA",47.011238,-118.512861
+"Asotin County","WA",46.181861,-117.227781
+"Benton County","WA",46.228125,-119.516659
+"Chelan County","WA",47.860974,-120.619041
+"Clallam County","WA",48.110903,-123.88986
+"Clark County","WA",45.77173,-122.485953
+"Columbia County","WA",46.29285,-117.911634
+"Cowlitz County","WA",46.196785,-122.67846
+"Douglas County","WA",47.741763,-119.694622
+"Ferry County","WA",48.473256,-118.533589
+"Franklin County","WA",46.537502,-118.903891
+"Garfield County","WA",46.429318,-117.536705
+"Grant County","WA",47.213633,-119.467788
+"Grays Harbor County","WA",47.113732,-123.826735
+"Island County","WA",48.158554,-122.670649
+"Jefferson County","WA",47.805708,-123.527057
+"King County","WA",47.490552,-121.833977
+"Kitsap County","WA",47.639595,-122.649634
+"Kittitas County","WA",47.124441,-120.676709
+"Klickitat County","WA",45.870446,-120.779305
+"Lewis County","WA",46.580071,-122.377444
+"Lincoln County","WA",47.582743,-118.417692
+"Mason County","WA",47.350832,-123.173103
+"Okanogan County","WA",48.548453,-119.742235
+"Pacific County","WA",46.556587,-123.782419
+"Pend Oreille County","WA",48.543825,-117.232191
+"Pierce County","WA",47.051413,-122.15324
+"San Juan County","WA",48.50719,-123.103769
+"Skagit County","WA",48.493292,-121.81577
+"Skamania County","WA",46.024785,-121.953232
+"Snohomish County","WA",48.054913,-121.765038
+"Spokane County","WA",47.620375,-117.403371
+"Stevens County","WA",48.388728,-117.854455
+"Thurston County","WA",46.935822,-122.830152
+"Wahkiakum County","WA",46.294638,-123.424458
+"Walla Walla County","WA",46.254606,-118.48037
+"Whatcom County","WA",48.842653,-121.836432
+"Whitman County","WA",46.905944,-117.53539
+"Yakima County","WA",46.456558,-120.740145
+"Barbour County","WV",39.139725,-79.996947
+"Berkeley County","WV",39.447938,-78.037754
+"Boone County","WV",38.022814,-81.713538
+"Braxton County","WV",38.69933,-80.73166
+"Brooke County","WV",40.272645,-80.578691
+"Cabell County","WV",38.419578,-82.243397
+"Calhoun County","WV",38.844159,-81.115478
+"Clay County","WV",38.459826,-81.081866
+"Doddridge County","WV",39.264307,-80.711498
+"Fayette County","WV",38.030948,-81.08607
+"Gilmer County","WV",38.915867,-80.849413
+"Grant County","WV",39.105988,-79.195064
+"Greenbrier County","WV",37.924418,-80.45059
+"Hampshire County","WV",39.312139,-78.611989
+"Hancock County","WV",40.516958,-80.570164
+"Hardy County","WV",39.011361,-78.841729
+"Harrison County","WV",39.279182,-80.386498
+"Jackson County","WV",38.834234,-81.677717
+"Jefferson County","WV",39.307398,-77.86322
+"Kanawha County","WV",38.328068,-81.523516
+"Lewis County","WV",38.988877,-80.495477
+"Lincoln County","WV",38.17177,-82.077623
+"Logan County","WV",37.830591,-81.940853
+"McDowell County","WV",37.38276,-81.658204
+"Marion County","WV",39.505839,-80.243402
+"Marshall County","WV",39.854426,-80.671794
+"Mason County","WV",38.770914,-82.029007
+"Mercer County","WV",37.403448,-81.106456
+"Mineral County","WV",39.404781,-78.95669
+"Mingo County","WV",37.721161,-82.158989
+"Monongalia County","WV",39.633645,-80.059074
+"Monroe County","WV",37.554062,-80.550329
+"Morgan County","WV",39.557345,-78.256517
+"Nicholas County","WV",38.291432,-80.797515
+"Ohio County","WV",40.100323,-80.6199
+"Pendleton County","WV",38.67445,-79.340617
+"Pleasants County","WV",39.368133,-81.161172
+"Pocahontas County","WV",38.332606,-80.010121
+"Preston County","WV",39.46903,-79.668865
+"Putnam County","WV",38.510518,-81.906109
+"Raleigh County","WV",37.762469,-81.264672
+"Randolph County","WV",38.781095,-79.867788
+"Ritchie County","WV",39.177112,-81.066317
+"Roane County","WV",38.74295,-81.354494
+"Summers County","WV",37.655999,-80.856325
+"Taylor County","WV",39.332478,-80.046554
+"Tucker County","WV",39.111175,-79.559968
+"Tyler County","WV",39.465634,-80.877219
+"Upshur County","WV",38.90253,-80.231606
+"Wayne County","WV",38.143642,-82.422666
+"Webster County","WV",38.483459,-80.449052
+"Wetzel County","WV",39.59818,-80.635399
+"Wirt County","WV",39.020034,-81.382975
+"Wood County","WV",39.211602,-81.516234
+"Wyoming County","WV",37.60366,-81.549032
+"Adams County","WI",43.973757,-89.767228
+"Ashland County","WI",46.544424,-90.679691
+"Barron County","WI",45.437192,-91.852892
+"Bayfield County","WI",46.634199,-91.177282
+"Brown County","WI",44.474024,-87.99613
+"Buffalo County","WI",44.385633,-91.761294
+"Burnett County","WI",45.866897,-92.37573
+"Calumet County","WI",44.07841,-88.212132
+"Chippewa County","WI",45.069092,-91.283505
+"Clark County","WI",44.739346,-90.609953
+"Columbia County","WI",43.471882,-89.330472
+"Crawford County","WI",43.242768,-90.935185
+"Dane County","WI",43.067468,-89.417852
+"Dodge County","WI",43.429628,-88.701939
+"Door County","WI",45.093417,-87.048683
+"Douglas County","WI",46.463218,-91.892477
+"Dunn County","WI",44.947751,-91.897645
+"Eau Claire County","WI",44.726355,-91.286414
+"Florence County","WI",45.871828,-88.406988
+"Fond du Lac County","WI",43.754722,-88.493284
+"Forest County","WI",45.666881,-88.773326
+"Grant County","WI",42.870028,-90.694229
+"Green County","WI",42.675522,-89.605074
+"Green Lake County","WI",43.780247,-88.97038
+"Iowa County","WI",43.001021,-90.133691
+"Iron County","WI",46.32655,-90.261298
+"Jackson County","WI",44.32459,-90.79951
+"Jefferson County","WI",43.013804,-88.773985
+"Juneau County","WI",43.932836,-90.113984
+"Kenosha County","WI",42.587526,-87.879996
+"Kewaunee County","WI",44.605677,-87.448008
+"La Crosse County","WI",43.908222,-91.111758
+"Lafayette County","WI",42.655578,-90.130292
+"Langlade County","WI",45.254863,-89.06707
+"Lincoln County","WI",45.333148,-89.73224
+"Manitowoc County","WI",44.156137,-87.577352
+"Marathon County","WI",44.898036,-89.757823
+"Marinette County","WI",45.346899,-87.991198
+"Marquette County","WI",43.826053,-89.409095
+"Menominee County","WI",44.991304,-88.669251
+"Milwaukee County","WI",42.912643,-87.862312
+"Monroe County","WI",43.945175,-90.619969
+"Oconto County","WI",44.996575,-88.206516
+"Oneida County","WI",45.716176,-89.534533
+"Outagamie County","WI",44.418226,-88.464988
+"Ozaukee County","WI",43.501807,-87.847551
+"Pepin County","WI",44.627436,-91.83489
+"Pierce County","WI",44.725336,-92.426279
+"Polk County","WI",45.462041,-92.447066
+"Portage County","WI",44.476246,-89.49807
+"Price County","WI",45.679072,-90.35965
+"Racine County","WI",42.780392,-87.771599
+"Richland County","WI",43.376199,-90.435693
+"Rock County","WI",42.66988,-89.075284
+"Rusk County","WI",45.472734,-91.136745
+"St. Croix County","WI",45.028959,-92.447284
+"Sauk County","WI",43.428001,-89.943318
+"Sawyer County","WI",45.864999,-91.147063
+"Shawano County","WI",44.789641,-88.755813
+"Sheboygan County","WI",43.741232,-87.731516
+"Taylor County","WI",45.211656,-90.504853
+"Trempealeau County","WI",44.30305,-91.358867
+"Vernon County","WI",43.599366,-90.821983
+"Vilas County","WI",46.049848,-89.501254
+"Walworth County","WI",42.66811,-88.541731
+"Washburn County","WI",45.892489,-91.796422
+"Washington County","WI",43.391156,-88.232917
+"Waukesha County","WI",43.018368,-88.30424
+"Waupaca County","WI",44.478004,-88.967005
+"Waushara County","WI",44.112823,-89.239786
+"Winnebago County","WI",44.085707,-88.668149
+"Wood County","WI",44.461413,-90.038825
+"Albany County","WY",41.665514,-105.721883
+"Big Horn County","WY",44.525117,-107.994848
+"Campbell County","WY",44.191999,-105.517014
+"Carbon County","WY",41.70359,-106.933153
+"Converse County","WY",42.984623,-105.524752
+"Crook County","WY",44.589266,-104.567298
+"Fremont County","WY",43.054831,-108.608935
+"Goshen County","WY",42.089455,-104.35354
+"Hot Springs County","WY",43.720209,-108.435076
+"Johnson County","WY",44.044048,-106.588541
+"Laramie County","WY",41.29283,-104.660395
+"Lincoln County","WY",42.229993,-110.682961
+"Natrona County","WY",42.977645,-106.768219
+"Niobrara County","WY",43.062159,-104.468373
+"Park County","WY",44.492387,-109.593597
+"Platte County","WY",42.131593,-104.953963
+"Sheridan County","WY",44.781369,-106.881211
+"Sublette County","WY",42.767928,-109.91617
+"Sweetwater County","WY",41.660328,-108.875677
+"Teton County","WY",44.048662,-110.426087
+"Uinta County","WY",41.284726,-110.558947
+"Washakie County","WY",43.878831,-107.669052
+"Weston County","WY",43.846213,-104.57002

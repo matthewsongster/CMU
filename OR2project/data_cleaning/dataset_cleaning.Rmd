@@ -1,0 +1,87 @@
+---
+title: 'data formatting'
+
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(cache=TRUE, autodep=TRUE, cache.comments=TRUE)
+```
+
+```{r}
+library(dplyr)
+
+covid.df = read.csv(file = "COVID-19_Vaccinations_in_the_United_States_County.csv", header=T)
+
+coord.df = read.table(file= "2022_Gaz_counties_national.txt", header=T, sep="\t")
+
+
+cases.df = read.csv(file = "us-counties.csv", header=T)
+
+coord.df
+
+cases.df
+```
+
+
+- **1.** CSV Formatting
+```{r}
+
+#create copy of dataframe with only relevant columns (rows x 7 cols)
+covid = covid.df[c("Date", "Recip_County", "Recip_State", "Administered_Dose1_Recip", "Series_Complete_Yes", "Booster_Doses", "Second_Booster_50Plus")]
+
+
+#change N/A values to 0
+covid[is.na(covid)] = 0
+
+#add a total vaccines administered column per row
+covid$Total = covid$Administered_Dose1_Recip + covid$Series_Complete_Yes + covid$Booster_Doses + covid$Second_Booster_50Plus
+
+#create month, year columns as integers
+covid$Year = as.integer(substr(covid$Date, 7, 10))
+covid$Month = as.integer(substr(covid$Date, 1,2))
+
+#add up rows with values for total vaccines by same county,state,month,year
+covid = covid %>% group_by(Recip_County, Recip_State, Month, Year) %>% summarise(across(Total, sum)) %>% arrange(Year, Month)
+
+covid
+
+```
+**2. ** Adding other datasets to covid dataframe
+```{r}
+#formatting coord.df
+coord = coord.df[c("NAME", "USPS", "INTPTLAT", "INTPTLONG")]
+colnames(coord) = c("Recip_County", "Recip_State", "Lat", "Long")
+
+#merging with covid
+covid = merge(covid, coord, by = c("Recip_County", "Recip_State"))
+covid = arrange(covid, Year, Month)
+
+
+#formatting cases.df
+cases.df$Year = as.integer(substr(cases.df$date, 1, 4))
+cases.df$Month = as.integer(substr(cases.df$date, 6,7))
+cases.df$state = state.abb[match(cases.df$state, state.name)]
+cases.df$county = paste(cases.df$county, " County", sep="")
+colnames(cases.df) = c("date", "Recip_County", "Recip_State", "fips", "Cases", "Deaths", "Year", "Month")
+
+cases = cases.df %>% group_by(Recip_County, Recip_State, Month, Year) %>% summarise(across(Cases, sum)) %>% arrange(Year, Month)
+
+
+cases
+#merging with covid
+covid = merge(covid, cases, by = c("Recip_County", "Recip_State", "Month", "Year"))
+covid = arrange(covid, Year, Month)
+
+covid
+
+```
+
+
+**3. ** Export df to CSV
+```{r}
+
+write.csv(covid,"covid_clean.csv", row.names = FALSE)
+
+write.csv(coord, "coord_clean.csv", row.names = FALSE)
+```
+
